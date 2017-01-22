@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 1
 
 
    1              		.file	"shellbt.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
   55              	.LCFI1:
   56              		.cfi_def_cfa_offset 0
   57 0052 0004     		se_blr
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 2
 
 
   58              		.cfi_endproc
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  112              	.L3:
  113              		.loc 2 41 0
  114 0040 01F5     		se_mr %r5,%r31
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 3
 
 
  115 0042 01C3     		se_mr %r3,%r28
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  169              	shell_commands_car:
  170 0000 00000000 		.long	.LC2
  171 0004 00000000 		.long	startgps
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 4
 
 
  172 0008 00000000 		.long	.LC3
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  214      00
  215 006d 000000   		.zero	3
  216              	.LC7:
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 5
 
 
  217 0070 626C696E 		.string	"blink"
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  257              		.file 14 "./components/chibios_rt_portable_mini_shell_component/lib/include/shell.h"
  258              		.file 15 "c:\\spc5studio\\eclipse\\plugins\\com.st.tools.spc5.tools.gnu.gcc.ppcvle.win32_1.0.0.201
  259              		.file 16 "<built-in>"
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 6
 
 
  260              		.section	.debug_info,"",@progbits
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  314 0071 00000000 		.4byte	.LASF8
  315 0075 04       		.byte	0x4
  316 0076 3F       		.byte	0x3f
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 7
 
 
  317 0077 00000042 		.4byte	0x42
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  371 00e9 06       		.byte	0x6
  372 00ea 3B       		.byte	0x3b
  373 00eb 0000009B 		.4byte	0x9b
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 8
 
 
  374 00ef 03       		.uleb128 0x3
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  428 015e 08       		.byte	0x8
  429 015f 63       		.byte	0x63
  430 0160 000000FA 		.4byte	0xfa
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 9
 
 
  431 0164 02       		.byte	0x2
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  485 01c1 82       		.byte	0x82
  486 01c2 000000E4 		.4byte	0xe4
  487 01c6 02       		.byte	0x2
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 10
 
 
  488 01c7 23       		.byte	0x23
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  542 0224 00000110 		.4byte	0x110
  543 0228 02       		.byte	0x2
  544 0229 23       		.byte	0x23
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 11
 
 
  545 022a 38       		.uleb128 0x38
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  599 0287 66       		.byte	0x66
  600 0288 00000256 		.4byte	0x256
  601 028c 08       		.uleb128 0x8
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 12
 
 
  602 028d 04       		.byte	0x4
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  656 02f1 04       		.byte	0x4
  657 02f2 05       		.uleb128 0x5
  658 02f3 00000000 		.4byte	.LASF51
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 13
 
 
  659 02f7 50       		.byte	0x50
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  713 0356 09       		.byte	0x9
  714 0357 DD       		.byte	0xdd
  715 0358 000002E5 		.4byte	0x2e5
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 14
 
 
  716 035c 02       		.byte	0x2
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  770 03b9 E4       		.byte	0xe4
  771 03ba 000002E5 		.4byte	0x2e5
  772 03be 02       		.byte	0x2
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 15
 
 
  773 03bf 23       		.byte	0x23
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  827 041c 09       		.byte	0x9
  828 041d F2       		.byte	0xf2
  829 041e 00000430 		.4byte	0x430
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 16
 
 
  830 0422 07       		.uleb128 0x7
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  884 0487 00000000 		.4byte	.LASF58
  885 048b 0A       		.byte	0xa
  886 048c 69       		.byte	0x69
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 17
 
 
  887 048d 0000011B 		.4byte	0x11b
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  941 04ea 00000000 		.4byte	.LASF61
  942 04ee 0A       		.byte	0xa
  943 04ef 7C       		.byte	0x7c
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 18
 
 
  944 04f0 000004F8 		.4byte	0x4f8
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  998 0553 02       		.byte	0x2
  999 0554 23       		.byte	0x23
  1000 0555 14       		.uleb128 0x14
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 19
 
 
  1001 0556 06       		.uleb128 0x6
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1055 05b9 04       		.byte	0x4
  1056 05ba 08       		.byte	0x8
  1057 05bb 96       		.byte	0x96
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 20
 
 
  1058 05bc 000005ED 		.4byte	0x5ed
@@ -1198,7 +1198,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1112 062e 00000000 		.4byte	.LASF80
  1113 0632 0D       		.byte	0xd
  1114 0633 49       		.byte	0x49
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 21
 
 
  1115 0634 0000068B 		.4byte	0x68b
@@ -1258,7 +1258,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1169 06a0 0E       		.uleb128 0xe
  1170 06a1 0000061B 		.4byte	0x61b
  1171 06a5 0E       		.uleb128 0xe
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 22
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 22
 
 
  1172 06a6 00000030 		.4byte	0x30
@@ -1318,7 +1318,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1226 0715 0E       		.uleb128 0xe
  1227 0716 00000029 		.4byte	0x29
  1228 071a 0E       		.uleb128 0xe
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 23
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 23
 
 
  1229 071b 00000726 		.4byte	0x726
@@ -1378,7 +1378,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1283 0784 00       		.byte	0
  1284 0785 000007D0 		.4byte	0x7d0
  1285 0789 07       		.uleb128 0x7
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 24
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 24
 
 
  1286 078a 67707200 		.string	"gpr"
@@ -1438,7 +1438,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1340 07ed 01       		.byte	0x1
  1341 07ee 45       		.byte	0x45
  1342 07ef 00000720 		.4byte	0x720
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 25
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 25
 
 
  1343 07f3 15       		.uleb128 0x15
@@ -1498,7 +1498,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1397 0861 53       		.byte	0x53
  1398 0862 03       		.byte	0x3
  1399 0863 F3       		.byte	0xf3
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 26
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 26
 
 
  1400 0864 01       		.uleb128 0x1
@@ -1558,7 +1558,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1454 08cb 000008D6 		.4byte	0x8d6
  1455 08cf 1D       		.uleb128 0x1d
  1456 08d0 01       		.byte	0x1
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 27
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 27
 
 
  1457 08d1 53       		.byte	0x53
@@ -1618,7 +1618,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1511 0934 03       		.byte	0x3
  1512 0935 00000000 		.4byte	tpgps
  1513 0939 23       		.uleb128 0x23
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 28
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 28
 
 
  1514 093a 00000000 		.4byte	.LASF97
@@ -1678,7 +1678,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1568 09a7 01       		.byte	0x1
  1569 09a8 00000000 		.4byte	.LASF106
  1570 09ac 08       		.byte	0x8
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 29
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 29
 
 
  1571 09ad 0178     		.2byte	0x178
@@ -1738,7 +1738,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1625 002d 04       		.uleb128 0x4
  1626 002e 24       		.uleb128 0x24
  1627 002f 00       		.byte	0
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 30
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 30
 
 
  1628 0030 0B       		.uleb128 0xb
@@ -1798,7 +1798,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1682 0066 13       		.uleb128 0x13
  1683 0067 01       		.byte	0x1
  1684 0068 0B       		.uleb128 0xb
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 31
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 31
 
 
  1685 0069 0B       		.uleb128 0xb
@@ -1858,7 +1858,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1739 009f 00       		.byte	0
  1740 00a0 49       		.uleb128 0x49
  1741 00a1 13       		.uleb128 0x13
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 32
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 32
 
 
  1742 00a2 00       		.byte	0
@@ -1918,7 +1918,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1796 00d8 2E       		.uleb128 0x2e
  1797 00d9 01       		.byte	0x1
  1798 00da 03       		.uleb128 0x3
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 33
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 33
 
 
  1799 00db 0E       		.uleb128 0xe
@@ -1978,7 +1978,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1853 0111 06       		.uleb128 0x6
  1854 0112 9742     		.uleb128 0x2117
  1855 0114 0C       		.uleb128 0xc
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 34
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 34
 
 
  1856 0115 01       		.uleb128 0x1
@@ -2038,7 +2038,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1910 0150 03       		.uleb128 0x3
  1911 0151 0E       		.uleb128 0xe
  1912 0152 3A       		.uleb128 0x3a
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 35
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 35
 
 
  1913 0153 0B       		.uleb128 0xb
@@ -2098,7 +2098,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  1967 018c 31       		.uleb128 0x31
  1968 018d 13       		.uleb128 0x13
  1969 018e 01       		.uleb128 0x1
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 36
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 36
 
 
  1970 018f 13       		.uleb128 0x13
@@ -2158,7 +2158,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2024 01c5 00       		.byte	0
  2025 01c6 00       		.byte	0
  2026 01c7 25       		.uleb128 0x25
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 37
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 37
 
 
  2027 01c8 2E       		.uleb128 0x2e
@@ -2218,7 +2218,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2081 0024 00000000 		.4byte	0
  2082 0028 00000000 		.4byte	0
  2083              	.LLST1:
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 38
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 38
 
 
  2084 002c 00000000 		.4byte	.LVL0
@@ -2278,7 +2278,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2138 00b0 00000000 		.4byte	.LVL10
  2139 00b4 00000000 		.4byte	.LFE46
  2140 00b8 0004     		.2byte	0x4
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 39
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 39
 
 
  2141 00ba F3       		.byte	0xf3
@@ -2338,7 +2338,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2195              		.section	.debug_line,"",@progbits
  2196              	.Ldebug_line0:
  2197 0000 000003D6 		.section	.debug_str,"MS",@progbits,1
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 40
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 40
 
 
  2197      00020000 
@@ -2398,7 +2398,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2226              	.LASF106:
  2227 007f 63685468 		.string	"chThdExit"
  2227      64457869 
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 41
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 41
 
 
  2227      7400
@@ -2458,7 +2458,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2255 0114 76745F70 		.string	"vt_prev"
  2255      72657600 
  2256              	.LASF82:
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 42
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 42
 
 
  2257 011c 42617365 		.string	"BaseSequentialStream"
@@ -2518,7 +2518,7 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2283 01b3 73746B61 		.string	"stkalign_t"
  2283      6C69676E 
  2283      5F7400
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 43
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 43
 
 
  2284              	.LASF80:
@@ -2556,234 +2556,234 @@ GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 1
  2303 020b 7368656C 		.string	"shellcmd_t"
  2303      6C636D64 
  2303      5F7400
- 2304              	.LASF68:
- 2305 0216 725F6375 		.string	"r_current"
- 2305      7272656E 
- 2305      7400
- 2306              	.LASF67:
- 2307 0220 725F6F6C 		.string	"r_older"
- 2307      64657200 
- 2308              	.LASF20:
- 2309 0228 74726566 		.string	"trefs_t"
- 2309      735F7400 
- 2310              	.LASF28:
- 2311 0230 705F7072 		.string	"p_prev"
- 2311      657600
- 2312              	.LASF22:
- 2313 0237 74707269 		.string	"tprio_t"
- 2313      6F5F7400 
- 2314              	.LASF17:
- 2315 023f 5F426F6F 		.string	"_Bool"
- 2315      6C00
- 2316              	.LASF14:
- 2317 0245 696E7433 		.string	"int32_t"
- 2317      325F7400 
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 44
+ 2304              	.LASF103:
+ 2305 0216 433A5C53 		.string	"C:\\SPC5Studio\\workspace\\ChibiOS-RT SPC560Dxx CARSIMU FW"
+ 2305      50433553 
+ 2305      74756469 
+ 2305      6F5C776F 
+ 2305      726B7370 
+ 2306              	.LASF68:
+ 2307 024e 725F6375 		.string	"r_current"
+ 2307      7272656E 
+ 2307      7400
+ 2308              	.LASF67:
+ 2309 0258 725F6F6C 		.string	"r_older"
+ 2309      64657200 
+ 2310              	.LASF20:
+ 2311 0260 74726566 		.string	"trefs_t"
+ 2311      735F7400 
+ 2312              	.LASF28:
+ 2313 0268 705F7072 		.string	"p_prev"
+ 2313      657600
+ 2314              	.LASF22:
+ 2315 026f 74707269 		.string	"tprio_t"
+ 2315      6F5F7400 
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 44
 
 
- 2318              	.LASF5:
- 2319 024d 756E7369 		.string	"unsigned char"
- 2319      676E6564 
- 2319      20636861 
- 2319      7200
- 2320              	.LASF71:
- 2321 025b 6D5F7175 		.string	"m_queue"
- 2321      65756500 
- 2322              	.LASF43:
- 2323 0263 705F6D74 		.string	"p_mtxlist"
- 2323      786C6973 
- 2323      7400
- 2324              	.LASF34:
- 2325 026d 705F7374 		.string	"p_state"
- 2325      61746500 
- 2326              	.LASF37:
- 2327 0275 705F7072 		.string	"p_preempt"
- 2327      65656D70 
- 2327      7400
- 2328              	.LASF96:
- 2329 027f 74706770 		.string	"tpgps"
- 2329      7300
- 2330              	.LASF64:
- 2331 0285 725F7072 		.string	"r_prio"
- 2331      696F00
- 2332              	.LASF77:
- 2333 028c 65776D61 		.string	"ewmask"
- 2333      736B00
- 2334              	.LASF27:
- 2335 0293 705F6E65 		.string	"p_next"
- 2335      787400
- 2336              	.LASF79:
- 2337 029a 42617365 		.string	"BaseSequentialStreamVMT"
- 2337      53657175 
- 2337      656E7469 
- 2337      616C5374 
- 2337      7265616D 
- 2338              	.LASF35:
- 2339 02b2 705F666C 		.string	"p_flags"
- 2339      61677300 
- 2340              	.LASF91:
- 2341 02ba 7265675F 		.string	"reg_save_area"
- 2341      73617665 
- 2341      5F617265 
- 2341      6100
- 2342              	.LASF26:
- 2343 02c8 54687265 		.string	"Thread"
- 2343      616400
- 2344              	.LASF42:
- 2345 02cf 705F6570 		.string	"p_epending"
- 2345      656E6469 
- 2345      6E6700
- 2346              	.LASF15:
- 2347 02da 75696E74 		.string	"uint32_t"
- 2347      33325F74 
- 2347      00
- 2348              	.LASF63:
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 45
+ 2316              	.LASF17:
+ 2317 0277 5F426F6F 		.string	"_Bool"
+ 2317      6C00
+ 2318              	.LASF14:
+ 2319 027d 696E7433 		.string	"int32_t"
+ 2319      325F7400 
+ 2320              	.LASF5:
+ 2321 0285 756E7369 		.string	"unsigned char"
+ 2321      676E6564 
+ 2321      20636861 
+ 2321      7200
+ 2322              	.LASF71:
+ 2323 0293 6D5F7175 		.string	"m_queue"
+ 2323      65756500 
+ 2324              	.LASF43:
+ 2325 029b 705F6D74 		.string	"p_mtxlist"
+ 2325      786C6973 
+ 2325      7400
+ 2326              	.LASF34:
+ 2327 02a5 705F7374 		.string	"p_state"
+ 2327      61746500 
+ 2328              	.LASF37:
+ 2329 02ad 705F7072 		.string	"p_preempt"
+ 2329      65656D70 
+ 2329      7400
+ 2330              	.LASF96:
+ 2331 02b7 74706770 		.string	"tpgps"
+ 2331      7300
+ 2332              	.LASF64:
+ 2333 02bd 725F7072 		.string	"r_prio"
+ 2333      696F00
+ 2334              	.LASF77:
+ 2335 02c4 65776D61 		.string	"ewmask"
+ 2335      736B00
+ 2336              	.LASF27:
+ 2337 02cb 705F6E65 		.string	"p_next"
+ 2337      787400
+ 2338              	.LASF79:
+ 2339 02d2 42617365 		.string	"BaseSequentialStreamVMT"
+ 2339      53657175 
+ 2339      656E7469 
+ 2339      616C5374 
+ 2339      7265616D 
+ 2340              	.LASF35:
+ 2341 02ea 705F666C 		.string	"p_flags"
+ 2341      61677300 
+ 2342              	.LASF91:
+ 2343 02f2 7265675F 		.string	"reg_save_area"
+ 2343      73617665 
+ 2343      5F617265 
+ 2343      6100
+ 2344              	.LASF26:
+ 2345 0300 54687265 		.string	"Thread"
+ 2345      616400
+ 2346              	.LASF42:
+ 2347 0307 705F6570 		.string	"p_epending"
+ 2347      656E6469 
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 45
 
 
- 2349 02e3 725F7175 		.string	"r_queue"
- 2349      65756500 
- 2350              	.LASF61:
- 2351 02eb 76745F73 		.string	"vt_systime"
- 2351      79737469 
- 2351      6D6500
- 2352              	.LASF102:
- 2353 02f6 2E2F736F 		.string	"./source/shellbt.c"
- 2353      75726365 
- 2353      2F736865 
- 2353      6C6C6274 
- 2353      2E6300
- 2354              	.LASF10:
- 2355 0309 6C6F6E67 		.string	"long unsigned int"
- 2355      20756E73 
- 2355      69676E65 
- 2355      6420696E 
- 2355      7400
- 2356              	.LASF78:
- 2357 031b 63686172 		.string	"char"
- 2357      00
- 2358              	.LASF97:
- 2359 0320 62477073 		.string	"bGpsRunning"
- 2359      52756E6E 
- 2359      696E6700 
- 2360              	.LASF25:
- 2361 032c 73797374 		.string	"systime_t"
- 2361      696D655F 
- 2361      7400
- 2362              	.LASF44:
- 2363 0336 705F7265 		.string	"p_realprio"
- 2363      616C7072 
- 2363      696F00
- 2364              	.LASF54:
- 2365 0341 76746675 		.string	"vtfunc_t"
- 2365      6E635F74 
- 2365      00
- 2366              	.LASF9:
- 2367 034a 5F5F7569 		.string	"__uint32_t"
- 2367      6E743332 
- 2367      5F7400
- 2368              	.LASF103:
- 2369 0355 433A5C53 		.string	"C:\\SPC5Studio\\workspace\\projet24\\ChibiOS-RT SPC560Dxx CARSIMU FW"
- 2369      50433553 
- 2369      74756469 
- 2369      6F5C776F 
- 2369      726B7370 
+ 2347      6E6700
+ 2348              	.LASF15:
+ 2349 0312 75696E74 		.string	"uint32_t"
+ 2349      33325F74 
+ 2349      00
+ 2350              	.LASF63:
+ 2351 031b 725F7175 		.string	"r_queue"
+ 2351      65756500 
+ 2352              	.LASF61:
+ 2353 0323 76745F73 		.string	"vt_systime"
+ 2353      79737469 
+ 2353      6D6500
+ 2354              	.LASF102:
+ 2355 032e 2E2F736F 		.string	"./source/shellbt.c"
+ 2355      75726365 
+ 2355      2F736865 
+ 2355      6C6C6274 
+ 2355      2E6300
+ 2356              	.LASF10:
+ 2357 0341 6C6F6E67 		.string	"long unsigned int"
+ 2357      20756E73 
+ 2357      69676E65 
+ 2357      6420696E 
+ 2357      7400
+ 2358              	.LASF78:
+ 2359 0353 63686172 		.string	"char"
+ 2359      00
+ 2360              	.LASF97:
+ 2361 0358 62477073 		.string	"bGpsRunning"
+ 2361      52756E6E 
+ 2361      696E6700 
+ 2362              	.LASF25:
+ 2363 0364 73797374 		.string	"systime_t"
+ 2363      696D655F 
+ 2363      7400
+ 2364              	.LASF44:
+ 2365 036e 705F7265 		.string	"p_realprio"
+ 2365      616C7072 
+ 2365      696F00
+ 2366              	.LASF54:
+ 2367 0379 76746675 		.string	"vtfunc_t"
+ 2367      6E635F74 
+ 2367      00
+ 2368              	.LASF9:
+ 2369 0382 5F5F7569 		.string	"__uint32_t"
+ 2369      6E743332 
+ 2369      5F7400
  2370              	.LASF32:
- 2371 0396 705F6F6C 		.string	"p_older"
+ 2371 038d 705F6F6C 		.string	"p_older"
  2371      64657200 
  2372              	.LASF38:
- 2373 039e 705F7469 		.string	"p_time"
+ 2373 0395 705F7469 		.string	"p_time"
  2373      6D6500
  2374              	.LASF51:
- 2375 03a5 696E7463 		.string	"intctx"
+ 2375 039c 696E7463 		.string	"intctx"
  2375      747800
  2376              	.LASF40:
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 46
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 46
 
 
- 2377 03ac 705F6D73 		.string	"p_msgqueue"
+ 2377 03a3 705F6D73 		.string	"p_msgqueue"
  2377      67717565 
  2377      756500
  2378              	.LASF60:
- 2379 03b7 76745F70 		.string	"vt_par"
+ 2379 03ae 76745F70 		.string	"vt_par"
  2379      617200
  2380              	.LASF100:
- 2381 03be 63685468 		.string	"chThdSleep"
+ 2381 03b5 63685468 		.string	"chThdSleep"
  2381      64536C65 
  2381      657000
  2382              	.LASF33:
- 2383 03c9 705F6E61 		.string	"p_name"
+ 2383 03c0 705F6E61 		.string	"p_name"
  2383      6D6500
  2384              	.LASF36:
- 2385 03d0 705F7265 		.string	"p_refs"
+ 2385 03c7 705F7265 		.string	"p_refs"
  2385      667300
  2386              	.LASF69:
- 2387 03d7 52656164 		.string	"ReadyList"
+ 2387 03ce 52656164 		.string	"ReadyList"
  2387      794C6973 
  2387      7400
  2388              	.LASF94:
- 2389 03e1 726C6973 		.string	"rlist"
+ 2389 03d8 726C6973 		.string	"rlist"
  2389      7400
  2390              	.LASF72:
- 2391 03e7 6D5F6F77 		.string	"m_owner"
+ 2391 03de 6D5F6F77 		.string	"m_owner"
  2391      6E657200 
  2392              	.LASF13:
- 2393 03ef 75696E74 		.string	"uint8_t"
+ 2393 03e6 75696E74 		.string	"uint8_t"
  2393      385F7400 
  2394              	.LASF99:
- 2395 03f7 63687670 		.string	"chvprintf"
+ 2395 03ee 63687670 		.string	"chvprintf"
  2395      72696E74 
  2395      6600
  2396              	.LASF55:
- 2397 0401 56697274 		.string	"VirtualTimer"
+ 2397 03f8 56697274 		.string	"VirtualTimer"
  2397      75616C54 
  2397      696D6572 
  2397      00
  2398              	.LASF85:
- 2399 040e 73635F66 		.string	"sc_function"
+ 2399 0405 73635F66 		.string	"sc_function"
  2399      756E6374 
  2399      696F6E00 
  2400              	.LASF81:
- 2401 041a 72656164 		.string	"read"
+ 2401 0411 72656164 		.string	"read"
  2401      00
  2402              	.LASF101:
- 2403 041f 47       		.ascii	"G"
- 2404 0420 4E552043 		.string	"NU C 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle) -mcall-sysv
+ 2403 0416 47       		.ascii	"G"
+ 2404 0417 4E552043 		.string	"NU C 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle) -mcall-sysv
  2404      20342E39 
  2404      2E322032 
  2404      30313431 
  2404      30333020 
  2405              	.LASF30:
- 2406 0521 705F6374 		.string	"p_ctx"
+ 2406 0518 705F6374 		.string	"p_ctx"
  2406      7800
  2407              	.LASF88:
- 2408 0527 5F5F7661 		.string	"__va_list_tag"
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 47
+ 2408 051e 5F5F7661 		.string	"__va_list_tag"
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 47
 
 
  2408      5F6C6973 
  2408      745F7461 
  2408      6700
  2409              	.LASF39:
- 2410 0535 705F7761 		.string	"p_waiting"
+ 2410 052c 705F7761 		.string	"p_waiting"
  2410      6974696E 
  2410      6700
  2411              	.LASF104:
- 2412 053f 63687072 		.string	"chprintf"
+ 2412 0536 63687072 		.string	"chprintf"
  2412      696E7466 
  2412      00
  2413              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s 			page 48
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s 			page 48
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 shellbt.c
-C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s:9      .text.chprintf.constprop.0:00000000 chprintf.constprop.0
-C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s:66     .text.ThreadGPS:00000000 ThreadGPS
-C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s:169    .rodata.shell_commands_car:00000000 shell_commands_car
-C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s:236    .bss.waThreadGPS:00000000 waThreadGPS
-C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s:163    .bss.bGpsRunning:00000000 bGpsRunning
-C:\Users\AE5AE~1.MAR\AppData\Local\Temp\cczK4Dnx.s:242    .bss.tpgps:00000000 tpgps
+C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s:9      .text.chprintf.constprop.0:00000000 chprintf.constprop.0
+C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s:66     .text.ThreadGPS:00000000 ThreadGPS
+C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s:169    .rodata.shell_commands_car:00000000 shell_commands_car
+C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s:236    .bss.waThreadGPS:00000000 waThreadGPS
+C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s:163    .bss.bGpsRunning:00000000 bGpsRunning
+C:\Users\thoma\AppData\Local\Temp\ccIttUXn.s:242    .bss.tpgps:00000000 tpgps
 
 UNDEFINED SYMBOLS
 chvprintf

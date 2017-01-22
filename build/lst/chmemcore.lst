@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 1
 
 
    1              		.file	"chmemcore.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
   55              	.LVL1:
   56              	.LBE9:
   57              	.LBE8:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 2
 
 
   58              	.LBB10:
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  112              	.LFE16:
  113              		.size	chCoreAlloc, .-chCoreAlloc
  114              		.section	.text.chCoreAllocI,"axv",@progbits
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 3
 
 
  115              		.align 1
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  169              		.loc 1 135 0
  170 0010 7C691850 		subf %r3, %r9, %r3
  171 0014 0004     		se_blr
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 4
 
 
  172              		.cfi_endproc
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  226 0049 04       		.uleb128 0x4
  227 004a 01       		.byte	0x1
  228 004b 06       		.byte	0x6
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 5
 
 
  229 004c 00000000 		.4byte	.LASF2
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  283 00b2 02       		.byte	0x2
  284 00b3 94       		.byte	0x94
  285 00b4 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 6
 
 
  286 00b5 03       		.byte	0x3
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  340 0119 00       		.byte	0
  341 011a 0D       		.uleb128 0xd
  342 011b 00000085 		.4byte	0x85
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 7
 
 
  343 011f 00000125 		.4byte	0x125
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  397 019e 00000000 		.4byte	.Ldebug_ranges0+0x18
  398 01a2 01       		.byte	0x1
  399 01a3 60       		.byte	0x60
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 8
 
 
  400 01a4 00       		.byte	0
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  454 0216 00000000 		.4byte	.LASF18
  455 021a 01       		.byte	0x1
  456 021b 45       		.byte	0x45
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 9
 
 
  457 021c 0000011A 		.4byte	0x11a
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  511 0030 0B       		.uleb128 0xb
  512 0031 0B       		.uleb128 0xb
  513 0032 3E       		.uleb128 0x3e
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 10
 
 
  514 0033 0B       		.uleb128 0xb
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  568 0069 13       		.uleb128 0x13
  569 006a 00       		.byte	0
  570 006b 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 11
 
 
  571 006c 09       		.uleb128 0x9
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  625 00a3 03       		.uleb128 0x3
  626 00a4 0E       		.uleb128 0xe
  627 00a5 3A       		.uleb128 0x3a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 12
 
 
  628 00a6 0B       		.uleb128 0xb
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  682 00dd 00       		.byte	0
  683 00de 03       		.uleb128 0x3
  684 00df 0E       		.uleb128 0xe
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 13
 
 
  685 00e0 3A       		.uleb128 0x3a
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  739 0116 55       		.uleb128 0x55
  740 0117 06       		.uleb128 0x6
  741 0118 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 14
 
 
  742 0119 00       		.byte	0
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  796 0150 0C       		.uleb128 0xc
  797 0151 49       		.uleb128 0x49
  798 0152 13       		.uleb128 0x13
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 15
 
 
  799 0153 11       		.uleb128 0x11
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  853 003d 00000000 		.4byte	.LVL3
  854 0041 0003     		.2byte	0x3
  855 0043 77       		.byte	0x77
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 16
 
 
  856 0044 79       		.sleb128 -7
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  910 00bc 09       		.byte	0x9
  911 00bd F8       		.byte	0xf8
  912 00be 1A       		.byte	0x1a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 17
 
 
  913 00bf 9F       		.byte	0x9f
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  967 0050 00000000 		.4byte	0
  968 0054 00000000 		.4byte	0
  969              		.section	.debug_line,"",@progbits
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 18
 
 
  970              	.Ldebug_line0:
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  993      6F5C776F 
  993      726B7370 
  994              	.LASF26:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 19
 
 
  995 00e2 5F636F72 		.string	"_core_init"
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  1019      7265416C 
  1019      6C6F6300 
  1020              	.LASF1:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 20
 
 
  1021 017e 6C6F6E67 		.string	"long int"
@@ -1163,17 +1163,17 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 1
  1030      73556E6C 
  1030      6F636B00 
  1031              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s 			page 21
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chmemcore.c
-C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s:10     .text._core_init:00000000 _core_init
-C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s:43     .text.chCoreAlloc:00000000 chCoreAlloc
-C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s:119    .text.chCoreAllocI:00000000 chCoreAllocI
-C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s:160    .text.chCoreStatus:00000000 chCoreStatus
-C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s:180    .bss.endmem:00000000 endmem
-C:\Users\thoma\AppData\Local\Temp\ccTigDOb.s:187    .bss.nextmem:00000000 nextmem
+C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s:10     .text._core_init:00000000 _core_init
+C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s:43     .text.chCoreAlloc:00000000 chCoreAlloc
+C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s:119    .text.chCoreAllocI:00000000 chCoreAllocI
+C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s:160    .text.chCoreStatus:00000000 chCoreStatus
+C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s:180    .bss.endmem:00000000 endmem
+C:\Users\thoma\AppData\Local\Temp\ccoUtwYJ.s:187    .bss.nextmem:00000000 nextmem
 
 UNDEFINED SYMBOLS
 __heap_base__

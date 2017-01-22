@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 1
 
 
    1              		.file	"chmtx.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
   55 001c 7A16013C 		e_beq %cr1,.L3
   56              	.LBB43:
   57              		.loc 1 135 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 2
 
 
   58 0020 C26F     		se_lwz %r6,8(%r31)
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  112 007a 57E90004 		e_stw %r31,4(%r9)
  113 007e 57EA0000 		e_stw %r31,0(%r10)
  114              	.LBE46:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 3
 
 
  115              	.LBE47:
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  169              	.LBE53:
  170              	.LBE52:
  171              		.loc 1 158 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 4
 
 
  172 00b4 510A0024 		e_lwz %r8,36(%r10)
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  226              	.LBB62:
  227              	.LBB63:
  228              		.loc 2 75 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 5
 
 
  229 00fc 512A0000 		e_lwz %r9,0(%r10)
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  283              	.LBE70:
  284              	.LBE71:
  285              		.loc 1 143 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 6
 
 
  286 0146 51480008 		e_lwz %r10,8(%r8)
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  340              	 # 149 "./components/chibios_rt_portable_kernel_component/lib/include/chsys.h" 1
  341 0008 7C000146 		wrteei  0
  342              	 # 0 "" 2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 7
 
 
  343              	.LBE74:
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  397              	.LBE88:
  398              	.LBE87:
  399              	.LBB92:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 8
 
 
  400              	.LBB93:
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  454              	.LVL30:
  455              		.loc 1 234 0
  456 0000 0232     		se_mtar %r10,%r3
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 9
 
 
  457              		.loc 1 240 0
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  511 000e 50C90000 		e_lwz %r6,rlist+24@l(%r9)
  512              	.LVL33:
  513              	.LBB101:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 10
 
 
  514              	.LBB102:
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  568              	.LVL39:
  569              	.LBE105:
  570              	.LBE104:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 11
 
 
  571              		.loc 1 302 0
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  625 009c 7C008146 		wrteei  1
  626              	 # 0 "" 2
  627              	.LBE110:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 12
 
 
  628              	.LBE111:
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  682              		.loc 1 345 0
  683 0028 50E60040 		e_lwz %r7,64(%r6)
  684              	.LVL47:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 13
 
 
  685              		.loc 1 347 0
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  739 007e 0090     		se_mtlr %r0
  740              		.cfi_remember_state
  741              		.cfi_restore 65
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 14
 
 
  742 0080 01F3     		se_mr %r3,%r31
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  796              	.LBB117:
  797              	.LBB118:
  798              		.loc 3 149 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 15
 
 
  799              	 # 149 "./components/chibios_rt_portable_kernel_component/lib/include/chsys.h" 1
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  853              		.loc 1 387 0
  854 005c 5109000C 		e_lwz %r8,12(%r9)
  855              		.loc 1 388 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 16
 
 
  856 0060 7C8A4840 		cmpl %cr1,%r10,%r9
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  910              		.file 11 "./components/chibios_rt_portable_kernel_component/lib/include/chmtx.h"
  911              		.section	.debug_info,"",@progbits
  912              	.Ldebug_info0:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 17
 
 
  913 0000 00000AAB 		.4byte	0xaab
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  967 0076 41       		.byte	0x41
  968 0077 0000007B 		.4byte	0x7b
  969 007b 03       		.uleb128 0x3
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 18
 
 
  970 007c 04       		.byte	0x4
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1024 00eb 00000090 		.4byte	0x90
  1025 00ef 04       		.uleb128 0x4
  1026 00f0 00000000 		.4byte	.LASF21
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 19
 
 
  1027 00f4 06       		.byte	0x6
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1081 015d 00000000 		.4byte	.LASF29
  1082 0161 08       		.byte	0x8
  1083 0162 64       		.byte	0x64
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 20
 
 
  1084 0163 000003DB 		.4byte	0x3db
@@ -1198,7 +1198,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1138 01c3 08       		.byte	0x8
  1139 01c4 88       		.byte	0x88
  1140 01c5 000000E4 		.4byte	0xe4
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 21
 
 
  1141 01c9 02       		.byte	0x2
@@ -1258,7 +1258,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1195 0226 D0       		.byte	0xd0
  1196 0227 000004F7 		.4byte	0x4f7
  1197 022b 02       		.byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 22
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 22
 
 
  1198 022c 23       		.byte	0x23
@@ -1318,7 +1318,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1252 0289 06       		.uleb128 0x6
  1253 028a 00000000 		.4byte	.LASF26
  1254 028e 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 23
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 23
 
 
  1255 028f 6D       		.byte	0x6d
@@ -1378,7 +1378,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1309 02f1 09       		.byte	0x9
  1310 02f2 DA       		.byte	0xda
  1311 02f3 000002AA 		.4byte	0x2aa
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 24
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 24
 
 
  1312 02f7 02       		.byte	0x2
@@ -1438,7 +1438,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1366 0354 E1       		.byte	0xe1
  1367 0355 000002AA 		.4byte	0x2aa
  1368 0359 02       		.byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 25
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 25
 
 
  1369 035a 23       		.byte	0x23
@@ -1498,7 +1498,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1423 03b7 000002AA 		.4byte	0x2aa
  1424 03bb 02       		.byte	0x2
  1425 03bc 23       		.byte	0x23
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 26
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 26
 
 
  1426 03bd 44       		.uleb128 0x44
@@ -1558,7 +1558,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1480 041c 60       		.byte	0x60
  1481 041d 000000EF 		.4byte	0xef
  1482 0421 02       		.byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 27
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 27
 
 
  1483 0422 23       		.byte	0x23
@@ -1618,7 +1618,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1537 0482 06       		.uleb128 0x6
  1538 0483 00000000 		.4byte	.LASF61
  1539 0487 0B       		.byte	0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 28
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 28
 
 
  1540 0488 2F       		.byte	0x2f
@@ -1678,7 +1678,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1594 04f1 01       		.byte	0x1
  1595 04f2 08       		.byte	0x8
  1596 04f3 00000000 		.4byte	.LASF67
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 29
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 29
 
 
  1597 04f7 09       		.uleb128 0x9
@@ -1738,7 +1738,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1651 055d 03       		.byte	0x3
  1652 055e 14       		.uleb128 0x14
  1653 055f 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 30
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 30
 
 
  1654 0560 00000000 		.4byte	.LASF80
@@ -1798,7 +1798,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1708 05c9 01       		.byte	0x1
  1709 05ca 00000000 		.4byte	.LASF73
  1710 05ce 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 31
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 31
 
 
  1711 05cf 79       		.byte	0x79
@@ -1858,7 +1858,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1765 065a 1C       		.uleb128 0x1c
  1766 065b 0000050E 		.4byte	0x50e
  1767 065f 00000000 		.4byte	.LLST7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 32
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 32
 
 
  1768 0663 00       		.byte	0
@@ -1918,7 +1918,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1822 06f0 00000526 		.4byte	0x526
  1823 06f4 00000000 		.4byte	.LLST14
  1824 06f8 1A       		.uleb128 0x1a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 33
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 33
 
 
  1825 06f9 00000000 		.4byte	.Ldebug_ranges0+0xa0
@@ -1978,7 +1978,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1879 0776 1F       		.uleb128 0x1f
  1880 0777 01       		.byte	0x1
  1881 0778 53       		.byte	0x53
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 34
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 34
 
 
  1882 0779 03       		.byte	0x3
@@ -2038,7 +2038,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1936 07ee 00       		.byte	0
  1937 07ef 00       		.byte	0
  1938 07f0 26       		.uleb128 0x26
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 35
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 35
 
 
  1939 07f1 00000555 		.4byte	0x555
@@ -2098,7 +2098,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  1993 0874 0103     		.2byte	0x103
  1994 0876 000004F7 		.4byte	0x4f7
  1995 087a 00000000 		.4byte	.LLST24
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 36
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 36
 
 
  1996 087e 2A       		.uleb128 0x2a
@@ -2158,7 +2158,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2050 0909 00000000 		.4byte	.LASF78
  2051 090d 01       		.byte	0x1
  2052 090e 0143     		.2byte	0x143
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 37
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 37
 
 
  2053 0910 01       		.byte	0x1
@@ -2218,7 +2218,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2107 09a4 00       		.byte	0
  2108 09a5 00       		.byte	0
  2109 09a6 20       		.uleb128 0x20
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 38
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 38
 
 
  2110 09a7 00000000 		.4byte	.LVL52
@@ -2278,7 +2278,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2164 0a36 1A       		.uleb128 0x1a
  2165 0a37 00000000 		.4byte	.Ldebug_ranges0+0x148
  2166 0a3b 1D       		.uleb128 0x1d
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 39
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 39
 
 
  2167 0a3c 00000597 		.4byte	0x597
@@ -2338,7 +2338,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2221 0aac 01       		.byte	0x1
  2222 0aad 01       		.byte	0x1
  2223 0aae 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 40
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 40
 
 
  2224              		.section	.debug_abbrev,"",@progbits
@@ -2398,7 +2398,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2278 0034 49       		.uleb128 0x49
  2279 0035 13       		.uleb128 0x13
  2280 0036 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 41
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 41
 
 
  2281 0037 00       		.byte	0
@@ -2458,7 +2458,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2335 006d 0B       		.uleb128 0xb
  2336 006e 01       		.uleb128 0x1
  2337 006f 13       		.uleb128 0x13
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 42
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 42
 
 
  2338 0070 00       		.byte	0
@@ -2518,7 +2518,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2392 00a6 49       		.uleb128 0x49
  2393 00a7 13       		.uleb128 0x13
  2394 00a8 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 43
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 43
 
 
  2395 00a9 00       		.byte	0
@@ -2578,7 +2578,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2449 00df 08       		.uleb128 0x8
  2450 00e0 3A       		.uleb128 0x3a
  2451 00e1 0B       		.uleb128 0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 44
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 44
 
 
  2452 00e2 3B       		.uleb128 0x3b
@@ -2638,7 +2638,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2506 0118 0C       		.uleb128 0xc
  2507 0119 11       		.uleb128 0x11
  2508 011a 01       		.uleb128 0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 45
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 45
 
 
  2509 011b 12       		.uleb128 0x12
@@ -2698,7 +2698,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2563 0153 08       		.uleb128 0x8
  2564 0154 3A       		.uleb128 0x3a
  2565 0155 0B       		.uleb128 0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 46
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 46
 
 
  2566 0156 3B       		.uleb128 0x3b
@@ -2758,7 +2758,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2620 018c 00       		.byte	0
  2621 018d 00       		.byte	0
  2622 018e 1D       		.uleb128 0x1d
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 47
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 47
 
 
  2623 018f 34       		.uleb128 0x34
@@ -2818,7 +2818,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2677 01cd 22       		.uleb128 0x22
  2678 01ce 898201   		.uleb128 0x4109
  2679 01d1 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 48
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 48
 
 
  2680 01d2 11       		.uleb128 0x11
@@ -2878,7 +2878,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2734 0209 31       		.uleb128 0x31
  2735 020a 13       		.uleb128 0x13
  2736 020b 52       		.uleb128 0x52
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 49
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 49
 
 
  2737 020c 01       		.uleb128 0x1
@@ -2938,7 +2938,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2791 0244 34       		.uleb128 0x34
  2792 0245 00       		.byte	0
  2793 0246 03       		.uleb128 0x3
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 50
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 50
 
 
  2794 0247 08       		.uleb128 0x8
@@ -2998,7 +2998,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2848 027d 0E       		.uleb128 0xe
  2849 027e 3A       		.uleb128 0x3a
  2850 027f 0B       		.uleb128 0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 51
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 51
 
 
  2851 0280 3B       		.uleb128 0x3b
@@ -3058,7 +3058,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2905 02b6 01       		.uleb128 0x1
  2906 02b7 12       		.uleb128 0x12
  2907 02b8 01       		.uleb128 0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 52
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 52
 
 
  2908 02b9 40       		.uleb128 0x40
@@ -3118,7 +3118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  2962 02f0 05       		.uleb128 0x5
  2963 02f1 00       		.byte	0
  2964 02f2 49       		.uleb128 0x49
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 53
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 53
 
 
  2965 02f3 13       		.uleb128 0x13
@@ -3178,7 +3178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3019 0017 10       		.sleb128 16
  3020 0018 00000000 		.4byte	.LCFI1
  3021 001c 00000000 		.4byte	.LCFI2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 54
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 54
 
 
  3022 0020 0002     		.2byte	0x2
@@ -3238,7 +3238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3076 00a0 00000000 		.4byte	.LVL2
  3077 00a4 00000000 		.4byte	.LVL7
  3078 00a8 0001     		.2byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 55
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 55
 
 
  3079 00aa 6F       		.byte	0x6f
@@ -3298,7 +3298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3133 012e 00000000 		.4byte	.LVL4
  3134 0132 00000000 		.4byte	.LVL7
  3135 0136 0001     		.2byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 56
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 56
 
 
  3136 0138 6F       		.byte	0x6f
@@ -3358,7 +3358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3190 01c6 00000000 		.4byte	0
  3191 01ca 00000000 		.4byte	0
  3192              	.LLST11:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 57
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 57
 
 
  3193 01ce 00000000 		.4byte	.LVL13
@@ -3418,7 +3418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3247 025f 00000000 		.4byte	.LCFI4
  3248 0263 0002     		.2byte	0x2
  3249 0265 71       		.byte	0x71
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 58
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 58
 
 
  3250 0266 00       		.sleb128 0
@@ -3478,7 +3478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3304 02ef 00000000 		.4byte	.LVL31
  3305 02f3 00000000 		.4byte	.LFE19
  3306 02f7 0001     		.2byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 59
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 59
 
 
  3307 02f9 5A       		.byte	0x5a
@@ -3538,7 +3538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3361 0384 6F       		.byte	0x6f
  3362 0385 00000000 		.4byte	.LVL44
  3363 0389 00000000 		.4byte	.LFE20
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 60
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 60
 
 
  3364 038d 0001     		.2byte	0x1
@@ -3598,7 +3598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3418 041b 0002     		.2byte	0x2
  3419 041d 71       		.byte	0x71
  3420 041e 10       		.sleb128 16
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 61
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 61
 
 
  3421 041f 00000000 		.4byte	.LCFI13
@@ -3658,7 +3658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3475 04b3 0001     		.2byte	0x1
  3476 04b5 6F       		.byte	0x6f
  3477 04b6 00000000 		.4byte	.LVL53
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 62
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 62
 
 
  3478 04ba 00000000 		.4byte	.LVL54
@@ -3718,7 +3718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3532 0548 00000000 		.4byte	.LVL62
  3533 054c 0001     		.2byte	0x1
  3534 054e 5A       		.byte	0x5a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 63
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 63
 
 
  3535 054f 00000000 		.4byte	0
@@ -3778,7 +3778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3589 0060 00000000 		.4byte	0
  3590 0064 00000000 		.4byte	0
  3591 0068 00000000 		.4byte	.LBB57
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 64
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 64
 
 
  3592 006c 00000000 		.4byte	.LBE57
@@ -3838,7 +3838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3646 0144 00000000 		.4byte	0
  3647 0148 00000000 		.4byte	.LBB121
  3648 014c 00000000 		.4byte	.LBE121
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 65
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 65
 
 
  3649 0150 00000000 		.4byte	.LBB124
@@ -3898,7 +3898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3687      00
  3688              	.LASF76:
  3689 0046 63684D74 		.string	"chMtxUnlock"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 66
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 66
 
 
  3689      78556E6C 
@@ -3958,7 +3958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3717 00d8 5F5F7569 		.string	"__uint32_t"
  3717      6E743332 
  3717      5F7400
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 67
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 67
 
 
  3718              	.LASF78:
@@ -4018,7 +4018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3743 01a7 6576656E 		.string	"eventmask_t"
  3743      746D6173 
  3743      6B5F7400 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 68
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 68
 
 
  3744              	.LASF75:
@@ -4078,7 +4078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3773      6F5F7400 
  3774              	.LASF16:
  3775 0265 5F426F6F 		.string	"_Bool"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 69
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 69
 
 
  3775      6C00
@@ -4138,7 +4138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3805      33325F74 
  3805      00
  3806              	.LASF52:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 70
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 70
 
 
  3807 02f7 725F7175 		.string	"r_queue"
@@ -4198,7 +4198,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3837 0380 75696E74 		.string	"uint8_t"
  3837      385F7400 
  3838              	.LASF65:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 71
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 71
 
 
  3839 0388 77746F62 		.string	"wtobjp"
@@ -4228,19 +4228,19 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 1
  3852      6974696E 
  3852      6700
  3853              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccZPi850.s 			page 72
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s 			page 72
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chmtx.c
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:10     .text.chMtxInit:00000000 chMtxInit
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:32     .text.chMtxLockS:00000000 chMtxLockS
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:325    .text.chMtxLock:00000000 chMtxLock
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:372    .text.chMtxTryLock:00000000 chMtxTryLock
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:450    .text.chMtxTryLockS:00000000 chMtxTryLockS
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:495    .text.chMtxUnlock:00000000 chMtxUnlock
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:649    .text.chMtxUnlockS:00000000 chMtxUnlockS
-C:\Users\thoma\AppData\Local\Temp\ccZPi850.s:777    .text.chMtxUnlockAll:00000000 chMtxUnlockAll
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:10     .text.chMtxInit:00000000 chMtxInit
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:32     .text.chMtxLockS:00000000 chMtxLockS
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:325    .text.chMtxLock:00000000 chMtxLock
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:372    .text.chMtxTryLock:00000000 chMtxTryLock
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:450    .text.chMtxTryLockS:00000000 chMtxTryLockS
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:495    .text.chMtxUnlock:00000000 chMtxUnlock
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:649    .text.chMtxUnlockS:00000000 chMtxUnlockS
+C:\Users\thoma\AppData\Local\Temp\ccI4pZlz.s:777    .text.chMtxUnlockAll:00000000 chMtxUnlockAll
 
 UNDEFINED SYMBOLS
 rlist

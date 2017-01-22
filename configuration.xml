@@ -178,20 +178,20 @@
             <value>false</value>
           </oscillator_bypass>
         </clock_settings>
-        <i_o_settings disabled="true">
-          <unused_pins_mode disabled="true" index="1">
+        <i_o_settings>
+          <unused_pins_mode index="1">
             <value>MODE_UNCONNECTED</value>
           </unused_pins_mode>
-          <pins_list disabled="true">
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+          <pins_list>
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_WHEEL</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="10">
+                <bit index="10">
                   <value>10</value>
                 </bit>
                 <metadatas>
@@ -200,8 +200,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="9">
+              <settings>
+                <pin_mode index="9">
                   <value>MODE_OUTPUT_ALTERNATE(1)</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -212,7 +212,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -246,15 +246,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PA_BUTTON</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="11">
+                <bit index="11">
                   <value>11</value>
                 </bit>
                 <metadatas>
@@ -263,8 +263,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="4">
+              <settings>
+                <pin_mode index="4">
                   <value>MODE_INPUT_PULLUP</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -275,7 +275,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -309,15 +309,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_EVENT1</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="14">
+                <bit index="14">
                   <value>14</value>
                 </bit>
                 <metadatas>
@@ -326,8 +326,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="4">
+              <settings>
+                <pin_mode index="4">
                   <value>MODE_INPUT_PULLUP</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -338,7 +338,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -372,15 +372,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PB_LIN0_TDX</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="2">
+                <bit index="2">
                   <value>2</value>
                 </bit>
                 <metadatas>
@@ -389,8 +389,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="9">
+              <settings>
+                <pin_mode index="9">
                   <value>MODE_OUTPUT_ALTERNATE(1)</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -401,7 +401,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="1">
+                <latched_state index="1">
                   <value>HIGH</value>
                 </latched_state>
               </settings>
@@ -435,15 +435,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PB_LIN0_RDX</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="3">
+                <bit index="3">
                   <value>3</value>
                 </bit>
                 <metadatas>
@@ -452,8 +452,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="3">
+              <settings>
+                <pin_mode index="3">
                   <value>MODE_INPUT</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -464,7 +464,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="1">
+                <latched_state index="1">
                   <value>HIGH</value>
                 </latched_state>
               </settings>
@@ -498,15 +498,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_BUTTON1</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="4">
+                <bit index="4">
                   <value>4</value>
                 </bit>
                 <metadatas>
@@ -515,8 +515,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="3">
+              <settings>
+                <pin_mode index="3">
                   <value>MODE_INPUT</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -527,7 +527,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -561,15 +561,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PB_TRIMMER</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="8">
+                <bit index="8">
                   <value>8</value>
                 </bit>
                 <metadatas>
@@ -578,8 +578,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="6">
+              <settings>
+                <pin_mode index="6">
                   <value>MODE_INPUT_ANALOG</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -590,7 +590,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -624,15 +624,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_IN2</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="10">
+                <bit index="10">
                   <value>10</value>
                 </bit>
                 <metadatas>
@@ -641,8 +641,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -653,7 +653,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -687,15 +687,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_IN1</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="12">
+                <bit index="12">
                   <value>12</value>
                 </bit>
                 <metadatas>
@@ -704,8 +704,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -716,7 +716,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -750,15 +750,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_IN3</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="13">
+                <bit index="13">
                   <value>13</value>
                 </bit>
                 <metadatas>
@@ -767,8 +767,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -779,7 +779,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -813,15 +813,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_SPEEDSENSOR</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="3">
+                <bit index="3">
                   <value>3</value>
                 </bit>
                 <metadatas>
@@ -830,8 +830,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="4">
+              <settings>
+                <pin_mode index="4">
                   <value>MODE_INPUT_PULLUP</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -842,7 +842,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -876,15 +876,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_IN4</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="14">
+                <bit index="14">
                   <value>14</value>
                 </bit>
                 <metadatas>
@@ -893,8 +893,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -905,7 +905,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -939,15 +939,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PC_LED8</value>
                 </identifier>
-                <port disabled="true" index="2">
+                <port index="2">
                   <value>PORT_C</value>
                 </port>
-                <bit disabled="true" index="2">
+                <bit index="2">
                   <value>2</value>
                 </bit>
                 <metadatas>
@@ -956,8 +956,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -968,7 +968,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1002,15 +1002,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PC_LED7</value>
                 </identifier>
-                <port disabled="true" index="2">
+                <port index="2">
                   <value>PORT_C</value>
                 </port>
-                <bit disabled="true" index="3">
+                <bit index="3">
                   <value>3</value>
                 </bit>
                 <metadatas>
@@ -1019,8 +1019,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1031,7 +1031,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1065,15 +1065,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_LIN1_TDX</value>
                 </identifier>
-                <port disabled="true" index="2">
+                <port index="2">
                   <value>PORT_C</value>
                 </port>
-                <bit disabled="true" index="6">
+                <bit index="6">
                   <value>6</value>
                 </bit>
                 <metadatas>
@@ -1082,8 +1082,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="9">
+              <settings>
+                <pin_mode index="9">
                   <value>MODE_OUTPUT_ALTERNATE(1)</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1094,7 +1094,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1128,15 +1128,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_LIN1_RDX</value>
                 </identifier>
-                <port disabled="true" index="2">
+                <port index="2">
                   <value>PORT_C</value>
                 </port>
-                <bit disabled="true" index="7">
+                <bit index="7">
                   <value>7</value>
                 </bit>
                 <metadatas>
@@ -1145,8 +1145,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="3">
+              <settings>
+                <pin_mode index="3">
                   <value>MODE_INPUT</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1157,7 +1157,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1191,15 +1191,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_EVENT4</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="6">
+                <bit index="6">
                   <value>6</value>
                 </bit>
                 <metadatas>
@@ -1208,8 +1208,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="4">
+              <settings>
+                <pin_mode index="4">
                   <value>MODE_INPUT_PULLUP</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1220,7 +1220,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1254,15 +1254,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_EVENT2</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="7">
+                <bit index="7">
                   <value>7</value>
                 </bit>
                 <metadatas>
@@ -1271,8 +1271,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="4">
+              <settings>
+                <pin_mode index="4">
                   <value>MODE_INPUT_PULLUP</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1283,7 +1283,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1317,15 +1317,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_EVENT3</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="8">
+                <bit index="8">
                   <value>8</value>
                 </bit>
                 <metadatas>
@@ -1334,8 +1334,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="4">
+              <settings>
+                <pin_mode index="4">
                   <value>MODE_INPUT_PULLUP</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1346,7 +1346,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1380,15 +1380,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PIN_MOTOR</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="9">
+                <bit index="9">
                   <value>9</value>
                 </bit>
                 <metadatas>
@@ -1397,8 +1397,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="9">
+              <settings>
+                <pin_mode index="9">
                   <value>MODE_OUTPUT_ALTERNATE(1)</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1409,7 +1409,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1443,15 +1443,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PC_LEDBLEU</value>
                 </identifier>
-                <port disabled="true" index="2">
+                <port index="2">
                   <value>PORT_C</value>
                 </port>
-                <bit disabled="true" index="4">
+                <bit index="4">
                   <value>4</value>
                 </bit>
                 <metadatas>
@@ -1460,8 +1460,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1472,7 +1472,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1506,15 +1506,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PB_LEDBLANCHE</value>
                 </identifier>
-                <port disabled="true" index="1">
+                <port index="1">
                   <value>PORT_B</value>
                 </port>
-                <bit disabled="true" index="1">
+                <bit index="1">
                   <value>1</value>
                 </bit>
                 <metadatas>
@@ -1523,8 +1523,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1535,7 +1535,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1569,15 +1569,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PA_LEDJAUNE1</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="2">
+                <bit index="2">
                   <value>2</value>
                 </bit>
                 <metadatas>
@@ -1586,8 +1586,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1598,7 +1598,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1632,15 +1632,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PA_LEDJAUNE2</value>
                 </identifier>
-                <port disabled="true" index="0">
+                <port index="0">
                   <value>PORT_A</value>
                 </port>
-                <bit disabled="true" index="1">
+                <bit index="1">
                   <value>1</value>
                 </bit>
                 <metadatas>
@@ -1649,8 +1649,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1661,7 +1661,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1695,15 +1695,15 @@
                 </wps>
               </advanced>
             </pin_settings>
-            <pin_settings disabled="true">
-              <pin_identification disabled="true">
-                <identifier disabled="true">
+            <pin_settings>
+              <pin_identification>
+                <identifier>
                   <value>PC_LEDROUGE</value>
                 </identifier>
-                <port disabled="true" index="2">
+                <port index="2">
                   <value>PORT_C</value>
                 </port>
-                <bit disabled="true" index="9">
+                <bit index="9">
                   <value>9</value>
                 </bit>
                 <metadatas>
@@ -1712,8 +1712,8 @@
                   </metadata>
                 </metadatas>
               </pin_identification>
-              <settings disabled="true">
-                <pin_mode disabled="true" index="7">
+              <settings>
+                <pin_mode index="7">
                   <value>MODE_OUTPUT_PUSHPULL</value>
                   <metadatas>
                     <metadata name="direction" class="com.st.tools.spc5.extensions.GenericMetadataHandler" source="com.st.tools.spc5.wizard.pinmap">
@@ -1724,7 +1724,7 @@
                     </metadata>
                   </metadatas>
                 </pin_mode>
-                <latched_state disabled="true" index="0">
+                <latched_state index="0">
                   <value>LOW</value>
                 </latched_state>
               </settings>
@@ -1759,194 +1759,194 @@
               </advanced>
             </pin_settings>
           </pins_list>
-          <alternate_inputs disabled="true">
-            <ps0 disabled="true" index="0">
+          <alternate_inputs>
+            <ps0 index="0">
               <value>-</value>
             </ps0>
-            <ps1 disabled="true" index="0">
+            <ps1 index="0">
               <value>-</value>
             </ps1>
-            <ps2 disabled="true" index="0">
+            <ps2 index="0">
               <value>-</value>
             </ps2>
-            <ps3 disabled="true" index="0">
+            <ps3 index="0">
               <value>-</value>
             </ps3>
-            <ps4 disabled="true" index="0">
+            <ps4 index="0">
               <value>-</value>
             </ps4>
-            <ps5 disabled="true" index="0">
+            <ps5 index="0">
               <value>-</value>
             </ps5>
-            <ps6 disabled="true" index="0">
+            <ps6 index="0">
               <value>-</value>
             </ps6>
-            <ps7 disabled="true" index="0">
+            <ps7 index="0">
               <value>-</value>
             </ps7>
-            <ps8 disabled="true" index="0">
+            <ps8 index="0">
               <value>-</value>
             </ps8>
-            <ps9 disabled="true" index="0">
+            <ps9 index="0">
               <value>-</value>
             </ps9>
-            <ps10 disabled="true" index="0">
+            <ps10 index="0">
               <value>-</value>
             </ps10>
-            <ps11 disabled="true" index="0">
+            <ps11 index="0">
               <value>-</value>
             </ps11>
-            <ps12 disabled="true" index="0">
+            <ps12 index="0">
               <value>-</value>
             </ps12>
-            <ps13 disabled="true" index="0">
+            <ps13 index="0">
               <value>-</value>
             </ps13>
-            <ps14 disabled="true" index="0">
+            <ps14 index="0">
               <value>-</value>
             </ps14>
-            <ps15 disabled="true" index="0">
+            <ps15 index="0">
               <value>-</value>
             </ps15>
-            <ps16 disabled="true" index="0">
+            <ps16 index="0">
               <value>-</value>
             </ps16>
-            <ps17 disabled="true" index="0">
+            <ps17 index="0">
               <value>-</value>
             </ps17>
-            <ps18 disabled="true" index="0">
+            <ps18 index="0">
               <value>-</value>
             </ps18>
-            <ps19 disabled="true" index="0">
+            <ps19 index="0">
               <value>-</value>
             </ps19>
-            <ps20 disabled="true" index="0">
+            <ps20 index="0">
               <value>-</value>
             </ps20>
-            <ps21 disabled="true" index="0">
+            <ps21 index="0">
               <value>-</value>
             </ps21>
-            <ps22 disabled="true" index="0">
+            <ps22 index="0">
               <value>-</value>
             </ps22>
-            <ps23 disabled="true" index="0">
+            <ps23 index="0">
               <value>-</value>
             </ps23>
-            <ps24 disabled="true" index="0">
+            <ps24 index="0">
               <value>-</value>
             </ps24>
-            <ps25 disabled="true" index="0">
+            <ps25 index="0">
               <value>-</value>
             </ps25>
-            <ps26 disabled="true" index="0">
+            <ps26 index="0">
               <value>-</value>
             </ps26>
-            <ps27 disabled="true" index="0">
+            <ps27 index="0">
               <value>-</value>
             </ps27>
-            <ps28 disabled="true" index="0">
+            <ps28 index="0">
               <value>-</value>
             </ps28>
-            <ps29 disabled="true" index="0">
+            <ps29 index="0">
               <value>-</value>
             </ps29>
-            <ps30 disabled="true" index="0">
+            <ps30 index="0">
               <value>-</value>
             </ps30>
-            <ps31 disabled="true" index="0">
+            <ps31 index="0">
               <value>-</value>
             </ps31>
-            <ps32 disabled="true" index="0">
+            <ps32 index="0">
               <value>-</value>
             </ps32>
-            <ps33 disabled="true" index="0">
+            <ps33 index="0">
               <value>-</value>
             </ps33>
-            <ps34 disabled="true" index="0">
+            <ps34 index="0">
               <value>-</value>
             </ps34>
-            <ps35 disabled="true" index="0">
+            <ps35 index="0">
               <value>-</value>
             </ps35>
-            <ps36 disabled="true" index="0">
+            <ps36 index="0">
               <value>-</value>
             </ps36>
-            <ps37 disabled="true" index="0">
+            <ps37 index="0">
               <value>-</value>
             </ps37>
-            <ps38 disabled="true" index="0">
+            <ps38 index="0">
               <value>-</value>
             </ps38>
-            <ps39 disabled="true" index="0">
+            <ps39 index="0">
               <value>-</value>
             </ps39>
-            <ps40 disabled="true" index="0">
+            <ps40 index="0">
               <value>-</value>
             </ps40>
-            <ps41 disabled="true" index="0">
+            <ps41 index="0">
               <value>-</value>
             </ps41>
-            <ps42 disabled="true" index="0">
+            <ps42 index="0">
               <value>-</value>
             </ps42>
-            <ps43 disabled="true" index="0">
+            <ps43 index="0">
               <value>-</value>
             </ps43>
-            <ps44 disabled="true" index="0">
+            <ps44 index="0">
               <value>-</value>
             </ps44>
-            <ps45 disabled="true" index="0">
+            <ps45 index="0">
               <value>-</value>
             </ps45>
-            <ps46 disabled="true" index="0">
+            <ps46 index="0">
               <value>-</value>
             </ps46>
-            <ps47 disabled="true" index="0">
+            <ps47 index="0">
               <value>-</value>
             </ps47>
-            <ps48 disabled="true" index="0">
+            <ps48 index="0">
               <value>-</value>
             </ps48>
-            <ps49 disabled="true" index="0">
+            <ps49 index="0">
               <value>-</value>
             </ps49>
-            <ps50 disabled="true" index="0">
+            <ps50 index="0">
               <value>-</value>
             </ps50>
-            <ps51 disabled="true" index="0">
+            <ps51 index="0">
               <value>-</value>
             </ps51>
-            <ps52 disabled="true" index="0">
+            <ps52 index="0">
               <value>-</value>
             </ps52>
-            <ps53 disabled="true" index="0">
+            <ps53 index="0">
               <value>-</value>
             </ps53>
-            <ps54 disabled="true" index="0">
+            <ps54 index="0">
               <value>-</value>
             </ps54>
-            <ps55 disabled="true" index="0">
+            <ps55 index="0">
               <value>-</value>
             </ps55>
-            <ps56 disabled="true" index="0">
+            <ps56 index="0">
               <value>-</value>
             </ps56>
-            <ps57 disabled="true" index="0">
+            <ps57 index="0">
               <value>-</value>
             </ps57>
-            <ps58 disabled="true" index="0">
+            <ps58 index="0">
               <value>-</value>
             </ps58>
-            <ps59 disabled="true" index="0">
+            <ps59 index="0">
               <value>-</value>
             </ps59>
-            <ps60 disabled="true" index="0">
+            <ps60 index="0">
               <value>-</value>
             </ps60>
-            <ps61 disabled="true" index="0">
+            <ps61 index="0">
               <value>-</value>
             </ps61>
-            <ps62 disabled="true" index="0">
+            <ps62 index="0">
               <value>-</value>
             </ps62>
           </alternate_inputs>

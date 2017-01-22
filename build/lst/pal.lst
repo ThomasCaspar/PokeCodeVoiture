@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 1
 
 
    1              		.file	"pal.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
   55              		.size	palWriteBus, .-palWriteBus
   56              		.section	.text.palSetBusMode,"axv",@progbits
   57              		.align 1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 2
 
 
   58              		.p2align 4,,15
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  112 0031 04       		.byte	0x4
  113 0032 07       		.byte	0x7
  114 0033 00000000 		.4byte	.LASF0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 3
 
 
  115 0037 03       		.uleb128 0x3
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  169 00a0 03       		.byte	0x3
  170 00a1 4B       		.byte	0x4b
  171 00a2 00000030 		.4byte	0x30
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 4
 
 
  172 00a6 03       		.uleb128 0x3
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  226 010f 23       		.byte	0x23
  227 0110 04       		.uleb128 0x4
  228 0111 0A       		.uleb128 0xa
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 5
 
 
  229 0112 00000000 		.4byte	.LASF21
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  283 0172 23       		.byte	0x23
  284 0173 08       		.uleb128 0x8
  285 0174 0A       		.uleb128 0xa
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 6
 
 
  286 0175 00000000 		.4byte	.LASF24
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  340 01de 04       		.uleb128 0x4
  341 01df 0A       		.uleb128 0xa
  342 01e0 00000000 		.4byte	.LASF32
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 7
 
 
  343 01e4 07       		.byte	0x7
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  397 0250 62757300 		.string	"bus"
  398 0254 01       		.byte	0x1
  399 0255 58       		.byte	0x58
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 8
 
 
  400 0256 00000230 		.4byte	0x230
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  454 02ce 01A3     		.2byte	0x1a3
  455 02d0 01       		.byte	0x1
  456 02d1 0000019A 		.4byte	0x19a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 9
 
 
  457 02d5 01       		.byte	0x1
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  511 000b 55       		.uleb128 0x55
  512 000c 06       		.uleb128 0x6
  513 000d 11       		.uleb128 0x11
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 10
 
 
  514 000e 01       		.uleb128 0x1
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  568 0044 49       		.uleb128 0x49
  569 0045 13       		.uleb128 0x13
  570 0046 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 11
 
 
  571 0047 00       		.byte	0
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  625 007d 3B       		.uleb128 0x3b
  626 007e 0B       		.uleb128 0xb
  627 007f 01       		.uleb128 0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 12
 
 
  628 0080 13       		.uleb128 0x13
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  682 00b9 00       		.byte	0
  683 00ba 11       		.uleb128 0x11
  684 00bb 01       		.uleb128 0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 13
 
 
  685 00bc 9542     		.uleb128 0x2115
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  739 00f4 0B       		.uleb128 0xb
  740 00f5 49       		.uleb128 0x49
  741 00f6 13       		.uleb128 0x13
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 14
 
 
  742 00f7 3F       		.uleb128 0x3f
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  796 012d 0B       		.uleb128 0xb
  797 012e 3B       		.uleb128 0x3b
  798 012f 05       		.uleb128 0x5
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 15
 
 
  799 0130 27       		.uleb128 0x27
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  853 006e 01       		.uleb128 0x1
  854 006f 54       		.byte	0x54
  855 0070 9F       		.byte	0x9f
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 16
 
 
  856 0071 00000000 		.4byte	0
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  910 0018 00000000 		.4byte	0
  911 001c 00000000 		.4byte	0
  912              		.section	.debug_line,"",@progbits
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 17
 
 
  913              	.Ldebug_line0:
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  937              	.LASF3:
  938 0084 756E7369 		.string	"unsigned char"
  938      676E6564 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 18
 
 
  938      20636861 
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  961              	.LASF37:
  962 0149 6D6F6465 		.string	"mode"
  962      00
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 19
 
 
  963              	.LASF21:
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  991              	.LASF12:
  992 01da 75696E74 		.string	"uint32_t"
  992      33325F74 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 20
 
 
  992      00
@@ -1172,14 +1172,14 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 1
  1007 033e 494F4275 		.string	"IOBus"
  1007      7300
  1008              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s 			page 21
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 pal.c
-C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s:10     .text.palReadBus:00000000 palReadBus
-C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s:35     .text.palWriteBus:00000000 palWriteBus
-C:\Users\thoma\AppData\Local\Temp\ccaOQaak.s:61     .text.palSetBusMode:00000000 palSetBusMode
+C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s:10     .text.palReadBus:00000000 palReadBus
+C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s:35     .text.palWriteBus:00000000 palWriteBus
+C:\Users\thoma\AppData\Local\Temp\ccpZ4kVJ.s:61     .text.palSetBusMode:00000000 palSetBusMode
 
 UNDEFINED SYMBOLS
 _pal_lld_readgroup

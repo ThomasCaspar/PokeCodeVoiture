@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 1
 
 
    1              		.file	"chschd.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
   55              		.file 2 "./components/chibios_rt_portable_kernel_component/lib/include/chinline.h"
   56              		.loc 2 75 0
   57 0036 51430000 		e_lwz %r10,0(%r3)
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 2
 
 
   58 003a 51230004 		e_lwz %r9,4(%r3)
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  112              		.cfi_endproc
  113              	.LFE18:
  114              		.size	wakeup, .-wakeup
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 3
 
 
  115              		.section	.text._scheduler_init,"axv",@progbits
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  169 001c 0D67     		se_cmpl %r7,%r6
  170 001e 7A00FFF6 		e_bge %cr0,.L12
  171              		.loc 1 99 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 4
 
 
  172 0022 51090004 		e_lwz %r8,4(%r9)
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  226 001a 3464001C 		e_stb %r3,28(%r4)
  227              		.loc 1 124 0
  228 001e 34C4001F 		e_stb %r6,31(%r4)
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 5
 
 
  229              	.LVL15:
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  283 0026 1FFF0000 		e_la %r31,.LANCHOR0@l(%r31)
  284 002a C66F     		se_lwz %r6,24(%r31)
  285 002c 78000001 		e_bl chVTSetI
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 6
 
 
  286              	.LVL21:
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  340 0080 0004     		se_blr
  341              		.cfi_endproc
  342              	.LFE19:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 7
 
 
  343              		.size	chSchGoSleepTimeoutS, .-chSchGoSleepTimeoutS
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  397              	.LBE56:
  398              	.LBB58:
  399              	.LBB59:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 8
 
 
  400              	.LBB60:
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  454              	chSchIsPreemptionRequired:
  455              	.LFB22:
  456              		.loc 1 276 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 9
 
 
  457              		.cfi_startproc
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  511              	.LBB66:
  512              		.loc 2 62 0
  513 000e C073     		se_lwz %r7,0(%r3)
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 10
 
 
  514              	.LBE66:
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  568              	.LBE73:
  569              		.loc 1 316 0
  570              		.loc 1 315 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 11
 
 
  571 0062 78000000 		e_b _port_switch
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  625              	.L41:
  626 0038 51290000 		e_lwz %r9,0(%r9)
  627              	.LVL47:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 12
 
 
  628              	.L40:
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  682              		.type	chSchDoReschedule, @function
  683              	chSchDoReschedule:
  684              	.LFB25:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 13
 
 
  685              		.loc 1 362 0
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  735 0011 00000000 		.4byte	.LASF96
  736 0015 00000000 		.4byte	.LASF97
  737 0019 00000000 		.4byte	.Ldebug_ranges0+0xb0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 14
 
 
  738 001d 00000000 		.4byte	0
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  792 0089 03       		.uleb128 0x3
  793 008a 08       		.byte	0x8
  794 008b 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 15
 
 
  795 008c 00000000 		.4byte	.LASF11
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  849 0101 0000009B 		.4byte	0x9b
  850 0105 04       		.uleb128 0x4
  851 0106 00000000 		.4byte	.LASF23
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 16
 
 
  852 010a 05       		.byte	0x5
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  906 0173 23       		.byte	0x23
  907 0174 0C       		.uleb128 0xc
  908 0175 06       		.uleb128 0x6
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 17
 
 
  909 0176 00000000 		.4byte	.LASF31
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  963 01d6 1F       		.uleb128 0x1f
  964 01d7 06       		.uleb128 0x6
  965 01d8 00000000 		.4byte	.LASF38
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 18
 
 
  966 01dc 07       		.byte	0x7
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1020 0239 06       		.uleb128 0x6
  1021 023a 00000000 		.4byte	.LASF44
  1022 023e 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 19
 
 
  1023 023f D4       		.byte	0xd4
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1077 029f 02       		.byte	0x2
  1078 02a0 23       		.byte	0x23
  1079 02a1 00       		.uleb128 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 20
 
 
  1080 02a2 00       		.byte	0
@@ -1198,7 +1198,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1134 0304 0C       		.uleb128 0xc
  1135 0305 07       		.uleb128 0x7
  1136 0306 72313700 		.string	"r17"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 21
 
 
  1137 030a 08       		.byte	0x8
@@ -1258,7 +1258,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1191 0367 07       		.uleb128 0x7
  1192 0368 72323400 		.string	"r24"
  1193 036c 08       		.byte	0x8
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 22
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 22
 
 
  1194 036d E2       		.byte	0xe2
@@ -1318,7 +1318,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1248 03ca 72333100 		.string	"r31"
  1249 03ce 08       		.byte	0x8
  1250 03cf E9       		.byte	0xe9
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 23
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 23
 
 
  1251 03d0 000002B5 		.4byte	0x2b5
@@ -1378,7 +1378,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1305 0435 64       		.byte	0x64
  1306 0436 00000481 		.4byte	0x481
  1307 043a 06       		.uleb128 0x6
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 24
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 24
 
 
  1308 043b 00000000 		.4byte	.LASF55
@@ -1438,7 +1438,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1362 049b 00000281 		.4byte	0x281
  1363 049f 02       		.byte	0x2
  1364 04a0 23       		.byte	0x23
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 25
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 25
 
 
  1365 04a1 00       		.uleb128 0
@@ -1498,7 +1498,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1419 0501 00000000 		.4byte	.LASF68
  1420 0505 0B       		.byte	0xb
  1421 0506 2D       		.byte	0x2d
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 26
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 26
 
 
  1422 0507 00000281 		.4byte	0x281
@@ -1558,7 +1558,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1476 056a 0C       		.byte	0xc
  1477 056b 33       		.byte	0x33
  1478 056c 00000528 		.4byte	0x528
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 27
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 27
 
 
  1479 0570 0E       		.uleb128 0xe
@@ -1618,7 +1618,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1533 05d6 01       		.byte	0x1
  1534 05d7 0000027B 		.4byte	0x27b
  1535 05db 03       		.byte	0x3
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 28
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 28
 
 
  1536 05dc 000005EB 		.4byte	0x5eb
@@ -1678,7 +1678,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1590 0645 74717000 		.string	"tqp"
  1591 0649 02       		.byte	0x2
  1592 064a 3B       		.byte	0x3b
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 29
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 29
 
 
  1593 064b 0000065A 		.4byte	0x65a
@@ -1738,7 +1738,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1647 06ce 00       		.byte	0
  1648 06cf 00       		.byte	0
  1649 06d0 1C       		.uleb128 0x1c
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 30
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 30
 
 
  1650 06d1 00000000 		.4byte	.LBB43
@@ -1798,7 +1798,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1704 074f 00000607 		.4byte	0x607
  1705 0753 00000000 		.4byte	.LLST6
  1706 0757 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 31
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 31
 
 
  1707 0758 22       		.uleb128 0x22
@@ -1858,7 +1858,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1761 07d0 BD       		.byte	0xbd
  1762 07d1 01       		.byte	0x1
  1763 07d2 000000FA 		.4byte	0xfa
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 32
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 32
 
 
  1764 07d6 00000000 		.4byte	.LFB19
@@ -1918,7 +1918,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1818 0844 00000000 		.4byte	.LVL22
  1819 0848 00000758 		.4byte	0x758
  1820 084c 00000857 		.4byte	0x857
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 33
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 33
 
 
  1821 0850 2C       		.uleb128 0x2c
@@ -1978,7 +1978,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1875 08bc 1B       		.uleb128 0x1b
  1876 08bd 000005FD 		.4byte	0x5fd
  1877 08c1 00000000 		.4byte	.LLST15
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 34
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 34
 
 
  1878 08c5 1C       		.uleb128 0x1c
@@ -2038,7 +2038,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1932 093b 00000000 		.4byte	.LFE22
  1933 093f 02       		.byte	0x2
  1934 0940 71       		.byte	0x71
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 35
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 35
 
 
  1935 0941 00       		.sleb128 0
@@ -2098,7 +2098,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  1989 09b6 00000000 		.4byte	.LLST20
  1990 09ba 00       		.byte	0
  1991 09bb 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 36
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 36
 
 
  1992 09bc 35       		.uleb128 0x35
@@ -2158,7 +2158,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2046 0a41 18       		.uleb128 0x18
  2047 0a42 00000644 		.4byte	0x644
  2048 0a46 06       		.byte	0x6
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 37
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 37
 
 
  2049 0a47 03       		.byte	0x3
@@ -2218,7 +2218,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2103 0aba 00       		.byte	0
  2104 0abb 36       		.uleb128 0x36
  2105 0abc 00000000 		.4byte	.LASF101
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 38
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 38
 
 
  2106 0ac0 01       		.byte	0x1
@@ -2278,7 +2278,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2160 0004 0E       		.uleb128 0xe
  2161 0005 13       		.uleb128 0x13
  2162 0006 0B       		.uleb128 0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 39
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 39
 
 
  2163 0007 03       		.uleb128 0x3
@@ -2338,7 +2338,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2217 003d 0B       		.uleb128 0xb
  2218 003e 0B       		.uleb128 0xb
  2219 003f 3A       		.uleb128 0x3a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 40
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 40
 
 
  2220 0040 0B       		.uleb128 0xb
@@ -2398,7 +2398,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2274 0076 0B       		.uleb128 0xb
  2275 0077 49       		.uleb128 0x49
  2276 0078 13       		.uleb128 0x13
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 41
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 41
 
 
  2277 0079 00       		.byte	0
@@ -2458,7 +2458,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2331 00af 49       		.uleb128 0x49
  2332 00b0 13       		.uleb128 0x13
  2333 00b1 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 42
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 42
 
 
  2334 00b2 00       		.byte	0
@@ -2518,7 +2518,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2388 00e8 00       		.byte	0
  2389 00e9 14       		.uleb128 0x14
  2390 00ea 2E       		.uleb128 0x2e
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 43
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 43
 
 
  2391 00eb 01       		.byte	0x1
@@ -2578,7 +2578,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2445 0121 11       		.uleb128 0x11
  2446 0122 01       		.uleb128 0x1
  2447 0123 12       		.uleb128 0x12
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 44
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 44
 
 
  2448 0124 01       		.uleb128 0x1
@@ -2638,7 +2638,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2502 015b 0B       		.uleb128 0xb
  2503 015c 01       		.byte	0x1
  2504 015d 11       		.uleb128 0x11
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 45
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 45
 
 
  2505 015e 01       		.uleb128 0x1
@@ -2698,7 +2698,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2559 0194 27       		.uleb128 0x27
  2560 0195 0C       		.uleb128 0xc
  2561 0196 11       		.uleb128 0x11
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 46
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 46
 
 
  2562 0197 01       		.uleb128 0x1
@@ -2758,7 +2758,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2616 01cf 3A       		.uleb128 0x3a
  2617 01d0 0B       		.uleb128 0xb
  2618 01d1 3B       		.uleb128 0x3b
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 47
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 47
 
 
  2619 01d2 0B       		.uleb128 0xb
@@ -2818,7 +2818,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2673 020b 0C       		.uleb128 0xc
  2674 020c 49       		.uleb128 0x49
  2675 020d 13       		.uleb128 0x13
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 48
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 48
 
 
  2676 020e 11       		.uleb128 0x11
@@ -2878,7 +2878,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2730 0249 9142     		.uleb128 0x2111
  2731 024b 0A       		.uleb128 0xa
  2732 024c 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 49
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 49
 
 
  2733 024d 00       		.byte	0
@@ -2938,7 +2938,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2787 028a 3B       		.uleb128 0x3b
  2788 028b 05       		.uleb128 0x5
  2789 028c 27       		.uleb128 0x27
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 50
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 50
 
 
  2790 028d 0C       		.uleb128 0xc
@@ -2998,7 +2998,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2844 02c5 00       		.byte	0
  2845 02c6 34       		.uleb128 0x34
  2846 02c7 34       		.uleb128 0x34
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 51
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 51
 
 
  2847 02c8 00       		.byte	0
@@ -3058,7 +3058,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2901 02fe 3A       		.uleb128 0x3a
  2902 02ff 0B       		.uleb128 0xb
  2903 0300 3B       		.uleb128 0x3b
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 52
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 52
 
 
  2904 0301 05       		.uleb128 0x5
@@ -3118,7 +3118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  2958 000f 00000000 		.4byte	0
  2959              	.LLST1:
  2960 0013 00000000 		.4byte	.LVL3
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 53
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 53
 
 
  2961 0017 00000000 		.4byte	.LVL7
@@ -3178,7 +3178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3015 00a9 00000000 		.4byte	.LVL16
  3016 00ad 0001     		.2byte	0x1
  3017 00af 53       		.byte	0x53
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 54
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 54
 
 
  3018 00b0 00000000 		.4byte	.LVL16
@@ -3238,7 +3238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3072 0134 00000000 		.4byte	0
  3073 0138 00000000 		.4byte	0
  3074              	.LLST11:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 55
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 55
 
 
  3075 013c 00000000 		.4byte	.LVL19
@@ -3298,7 +3298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3129 01bb 00000000 		.4byte	.LVL34
  3130 01bf 00000000 		.4byte	.LVL35-1
  3131 01c3 0001     		.2byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 56
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 56
 
 
  3132 01c5 58       		.byte	0x58
@@ -3358,7 +3358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3186 024a 00000000 		.4byte	0
  3187              	.LLST18:
  3188 024e 00000000 		.4byte	.LVL32
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 57
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 57
 
 
  3189 0252 00000000 		.4byte	.LVL35-1
@@ -3418,7 +3418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3243 02e4 00000000 		.4byte	.LVL48-1
  3244 02e8 0001     		.2byte	0x1
  3245 02ea 59       		.byte	0x59
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 58
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 58
 
 
  3246 02eb 00000000 		.4byte	0
@@ -3478,7 +3478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3300 002c 00000000 		.4byte	.LBE58
  3301 0030 00000000 		.4byte	.LBB63
  3302 0034 00000000 		.4byte	.LBE63
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 59
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 59
 
 
  3303 0038 00000000 		.4byte	0
@@ -3538,7 +3538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3357              		.section	.debug_line,"",@progbits
  3358              	.Ldebug_line0:
  3359 0000 0000046F 		.section	.debug_str,"MS",@progbits,1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 60
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 60
 
 
  3359      00020000 
@@ -3598,7 +3598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3383      7400
  3384              	.LASF2:
  3385 009c 7369676E 		.string	"signed char"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 61
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 61
 
 
  3385      65642063 
@@ -3658,7 +3658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3411      6E743332 
  3411      5F7400
  3412              	.LASF56:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 62
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 62
 
 
  3413 0168 76745F70 		.string	"vt_prev"
@@ -3718,7 +3718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3438              	.LASF22:
  3439 01fa 6D73675F 		.string	"msg_t"
  3439      7400
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 63
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 63
 
 
  3440              	.LASF17:
@@ -3778,7 +3778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3468              	.LASF81:
  3469 02bb 64657175 		.string	"dequeue"
  3469      65756500 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 64
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 64
 
 
  3470              	.LASF65:
@@ -3838,7 +3838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3501      787400
  3502              	.LASF35:
  3503 034c 705F666C 		.string	"p_flags"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 65
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 65
 
 
  3503      61677300 
@@ -3898,7 +3898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3531      7400
  3532              	.LASF38:
  3533 03df 705F7469 		.string	"p_time"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 66
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 66
 
 
  3533      6D6500
@@ -3958,7 +3958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3562      6E657200 
  3563              	.LASF30:
  3564 0563 705F6374 		.string	"p_ctx"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 67
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 67
 
 
  3564      7800
@@ -3967,23 +3967,23 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 1
  3566      6974696E 
  3566      6700
  3567              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s 			page 68
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s 			page 68
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chschd.c
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:9      .text.wakeup:00000000 wakeup
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:120    .text._scheduler_init:00000000 _scheduler_init
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:146    .text.chSchReadyI:00000000 chSchReadyI
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:193    .text.chSchGoSleepS:00000000 chSchGoSleepS
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:257    .text.chSchGoSleepTimeoutS:00000000 chSchGoSleepTimeoutS
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:349    .text.chSchWakeupS:00000000 chSchWakeupS
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:454    .text.chSchIsPreemptionRequired:00000000 chSchIsPreemptionRequired
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:494    .text.chSchDoRescheduleBehind:00000000 chSchDoRescheduleBehind
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:581    .text.chSchDoRescheduleAhead:00000000 chSchDoRescheduleAhead
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:656    .text.chSchRescheduleS:00000000 chSchRescheduleS
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:683    .text.chSchDoReschedule:00000000 chSchDoReschedule
-C:\Users\thoma\AppData\Local\Temp\ccjEyIAM.s:711    .bss.rlist:00000000 rlist
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:9      .text.wakeup:00000000 wakeup
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:120    .text._scheduler_init:00000000 _scheduler_init
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:146    .text.chSchReadyI:00000000 chSchReadyI
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:193    .text.chSchGoSleepS:00000000 chSchGoSleepS
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:257    .text.chSchGoSleepTimeoutS:00000000 chSchGoSleepTimeoutS
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:349    .text.chSchWakeupS:00000000 chSchWakeupS
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:454    .text.chSchIsPreemptionRequired:00000000 chSchIsPreemptionRequired
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:494    .text.chSchDoRescheduleBehind:00000000 chSchDoRescheduleBehind
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:581    .text.chSchDoRescheduleAhead:00000000 chSchDoRescheduleAhead
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:656    .text.chSchRescheduleS:00000000 chSchRescheduleS
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:683    .text.chSchDoReschedule:00000000 chSchDoReschedule
+C:\Users\thoma\AppData\Local\Temp\cc8hqyTa.s:711    .bss.rlist:00000000 rlist
 
 UNDEFINED SYMBOLS
 _port_switch

@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 1
 
 
    1              		.file	"memstreams.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
   55              	.LVL5:
   56              		.loc 1 80 0
   57 0000 C463     		se_lwz %r6,16(%r3)
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 2
 
 
   58 0002 C373     		se_lwz %r7,12(%r3)
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  112 0018 7CE9F850 		subf %r7, %r9, %r31
  113              		.loc 1 61 0
  114 001c 0143     		se_mr %r3,%r4
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 3
 
 
  115              	.LVL13:
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  169 000e 5123000C 		e_lwz %r9,12(%r3)
  170 0012 C2F3     		se_lwz %r31,8(%r3)
  171              		.loc 1 51 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 4
 
 
  172 0014 C133     		se_lwz %r3,4(%r3)
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  226 000c 55230000 		e_stw %r9,0(%r3)
  227              		.loc 1 109 0
  228 0010 D363     		se_stw %r6,12(%r3)
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 5
 
 
  229              		.loc 1 110 0
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  283 0044 05       		.byte	0x5
  284 0045 00000000 		.4byte	.LASF1
  285 0049 04       		.uleb128 0x4
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 6
 
 
  286 004a 01       		.byte	0x1
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  340 00b0 04       		.byte	0x4
  341 00b1 2C       		.byte	0x2c
  342 00b2 00000070 		.4byte	0x70
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 7
 
 
  343 00b6 04       		.uleb128 0x4
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  397 012b 0000010F 		.4byte	0x10f
  398 012f 07       		.uleb128 0x7
  399 0130 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 8
 
 
  400 0131 000000BD 		.4byte	0xbd
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  454 0197 0C       		.uleb128 0xc
  455 0198 766D7400 		.string	"vmt"
  456 019c 06       		.byte	0x6
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 9
 
 
  457 019d 48       		.byte	0x48
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  511 0200 00000000 		.4byte	.LFB17
  512 0204 00000000 		.4byte	.LFE17
  513 0208 02       		.byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 10
 
 
  514 0209 71       		.byte	0x71
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  568 027b 01       		.byte	0x1
  569 027c 4E       		.byte	0x4e
  570 027d 00000239 		.4byte	0x239
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 11
 
 
  571 0281 00000000 		.4byte	.LLST2
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  625 02f2 00       		.byte	0
  626 02f3 12       		.uleb128 0x12
  627 02f4 00000000 		.4byte	.LASF25
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 12
 
 
  628 02f8 01       		.byte	0x1
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  682 0366 01       		.byte	0x1
  683 0367 67       		.byte	0x67
  684 0368 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 13
 
 
  685 0369 00000000 		.4byte	.LFB19
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  739 03d5 08       		.uleb128 0x8
  740 03d6 000003E0 		.4byte	0x3e0
  741 03da 08       		.uleb128 0x8
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 14
 
 
  742 03db 00000090 		.4byte	0x90
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  796 002d 04       		.uleb128 0x4
  797 002e 24       		.uleb128 0x24
  798 002f 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 15
 
 
  799 0030 0B       		.uleb128 0xb
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  853 0066 0B       		.uleb128 0xb
  854 0067 0B       		.uleb128 0xb
  855 0068 3A       		.uleb128 0x3a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 16
 
 
  856 0069 0B       		.uleb128 0xb
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  910 009f 08       		.uleb128 0x8
  911 00a0 3A       		.uleb128 0x3a
  912 00a1 0B       		.uleb128 0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 17
 
 
  913 00a2 3B       		.uleb128 0x3b
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  967 00d9 0B       		.uleb128 0xb
  968 00da 3B       		.uleb128 0x3b
  969 00db 0B       		.uleb128 0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 18
 
 
  970 00dc 49       		.uleb128 0x49
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1024 0118 03       		.uleb128 0x3
  1025 0119 0E       		.uleb128 0xe
  1026 011a 3A       		.uleb128 0x3a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 19
 
 
  1027 011b 0B       		.uleb128 0xb
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1081 0152 27       		.uleb128 0x27
  1082 0153 0C       		.uleb128 0xc
  1083 0154 49       		.uleb128 0x49
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 20
 
 
  1084 0155 13       		.uleb128 0x13
@@ -1198,7 +1198,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1138 0064 00000000 		.4byte	0
  1139              	.LLST2:
  1140 0068 00000000 		.4byte	.LVL5
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 21
 
 
  1141 006c 00000000 		.4byte	.LVL8
@@ -1258,7 +1258,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1195 00e8 00       		.sleb128 0
  1196 00e9 00000000 		.4byte	0
  1197 00ed 00000000 		.4byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 22
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 22
 
 
  1198              	.LLST6:
@@ -1318,7 +1318,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1252 017a 0001     		.2byte	0x1
  1253 017c 53       		.byte	0x53
  1254 017d 00000000 		.4byte	.LVL13
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 23
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 23
 
 
  1255 0181 00000000 		.4byte	.LVL17
@@ -1378,7 +1378,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1309 0205 00000000 		.4byte	.LFE15
  1310 0209 0004     		.2byte	0x4
  1311 020b F3       		.byte	0xf3
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 24
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 24
 
 
  1312 020c 01       		.uleb128 0x1
@@ -1438,7 +1438,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1366 0030 00000000 		.4byte	.LFB19
  1367 0034 0000001C 		.4byte	.LFE19-.LFB19
  1368 0038 00000000 		.4byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 25
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 25
 
 
  1369 003c 00000000 		.4byte	0
@@ -1498,7 +1498,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1404 0050 77726974 		.string	"write"
  1404      6500
  1405              	.LASF29:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 26
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 26
 
 
  1406 0056 4D656D53 		.string	"MemStreamVMT"
@@ -1558,7 +1558,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1430 0129 6C6F6E67 		.string	"long long int"
  1430      206C6F6E 
  1430      6720696E 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 27
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 27
 
 
  1430      7400
@@ -1603,17 +1603,17 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 1
  1451 02a7 5F426F6F 		.string	"_Bool"
  1451      6C00
  1452              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s 			page 28
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s 			page 28
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 memstreams.c
-C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s:9      .text.put:00000000 put
-C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s:51     .text.get:00000000 get
-C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s:89     .text.reads:00000000 reads
-C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s:151    .text.writes:00000000 writes
-C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s:212    .text.msObjectInit:00000000 msObjectInit
-C:\Users\thoma\AppData\Local\Temp\ccmLD1xl.s:241    .rodata.vmt:00000000 vmt
+C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s:9      .text.put:00000000 put
+C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s:51     .text.get:00000000 get
+C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s:89     .text.reads:00000000 reads
+C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s:151    .text.writes:00000000 writes
+C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s:212    .text.msObjectInit:00000000 msObjectInit
+C:\Users\thoma\AppData\Local\Temp\ccytmVl8.s:241    .rodata.vmt:00000000 vmt
 
 UNDEFINED SYMBOLS
 memcpy

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SPC5-Patch version="1.0.0">
   <!--It is your patch repository, do not break your XML File.-->
-  <files />
+  <files>
+    <file componentId="org.chibios.spc5.components.kernel.port.gcc.spc560dxx" version="2.6.4.201611101103" path="component/lib/include/chtypes.h" user="false">
+      <diff />
+    </file>
+  </files>
 </SPC5-Patch>

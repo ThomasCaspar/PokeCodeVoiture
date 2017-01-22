@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 1
 
 
    1              		.file	"chcore.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
   55              		.loc 1 135 0
   56              	 # 135 "./components/chibios_rt_spc560dxx_kernel_port_component/lib/src/chcore.c" 1
   57 0000 182184B0 		e_subi      %sp, %sp, 80
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 2
 
 
   58              	 # 0 "" 2
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  112              	 # 151 "./components/chibios_rt_spc560dxx_kernel_port_component/lib/src/chcore.c" 1
  113 0038 0004     		se_blr
  114              	 # 0 "" 2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 3
 
 
  115 003a 0004     		se_blr
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  169 0000 000000EE 		.4byte	0xee
  170 0004 0002     		.2byte	0x2
  171 0006 00000000 		.4byte	.Ldebug_abbrev0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 4
 
 
  172 000a 04       		.byte	0x4
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  226 0076 03       		.uleb128 0x3
  227 0077 04       		.byte	0x4
  228 0078 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 5
 
 
  229 0079 00000000 		.4byte	.LASF10
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  283 00d9 00000000 		.4byte	.LFE18
  284 00dd 02       		.byte	0x2
  285 00de 71       		.byte	0x71
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 6
 
 
  286 00df 00       		.sleb128 0
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  340 002a 00       		.byte	0
  341 002b 04       		.uleb128 0x4
  342 002c 2E       		.uleb128 0x2e
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 7
 
 
  343 002d 00       		.byte	0
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  397 0064 0A       		.uleb128 0xa
  398 0065 9742     		.uleb128 0x2117
  399 0067 0C       		.uleb128 0xc
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 8
 
 
  400 0068 00       		.byte	0
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  450      01010101 
  451              	.LASF7:
  452 0000 6C6F6E67 		.string	"long long int"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 9
 
 
  452      206C6F6E 
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  474              	.LASF5:
  475 01e9 73686F72 		.string	"short unsigned int"
  475      7420756E 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 10
 
 
  475      7369676E 
@@ -577,17 +577,17 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 1
  491      74797065 
  491      00
  492              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\cccqWOod.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s 			page 11
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 chcore.c
-C:\Users\thoma\AppData\Local\Temp\cccqWOod.s:10     .text.port_init:00000000 port_init
-C:\Users\thoma\AppData\Local\Temp\cccqWOod.s:24     .text.port_halt:00000000 port_halt
-C:\Users\thoma\AppData\Local\Temp\cccqWOod.s:43     .text.port_dummy1:00000000 port_dummy1
-C:\Users\thoma\AppData\Local\Temp\cccqWOod.s:53     .text.port_dummy1:00000000 _port_switch
-C:\Users\thoma\AppData\Local\Temp\cccqWOod.s:124    .text.port_dummy2:00000000 port_dummy2
-C:\Users\thoma\AppData\Local\Temp\cccqWOod.s:134    .text.port_dummy2:00000000 _port_thread_start
+C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s:10     .text.port_init:00000000 port_init
+C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s:24     .text.port_halt:00000000 port_halt
+C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s:43     .text.port_dummy1:00000000 port_dummy1
+C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s:53     .text.port_dummy1:00000000 _port_switch
+C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s:124    .text.port_dummy2:00000000 port_dummy2
+C:\Users\thoma\AppData\Local\Temp\ccS9kr85.s:134    .text.port_dummy2:00000000 _port_thread_start
 
 UNDEFINED SYMBOLS
 chThdExit

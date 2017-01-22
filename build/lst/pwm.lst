@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 1
 
 
    1              		.file	"pwm.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
   55 0004 0080     		se_mflr %r0
   56 0006 D3F1     		se_stw %r31,12(%r1)
   57 0008 D501     		se_stw %r0,20(%r1)
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 2
 
 
   58              		.cfi_offset 65, 4
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  112              	.LCFI1:
  113              		.cfi_restore 31
  114              		.cfi_def_cfa_offset 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 3
 
 
  115 0044 0004     		se_blr
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  169 002e 7C008146 		wrteei  1
  170              	 # 0 "" 2
  171              	.LBE57:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 4
 
 
  172              	.LBE56:
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  226 001a 7C008146 		wrteei  1
  227              	 # 0 "" 2
  228              	.LBE63:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 5
 
 
  229              	.LBE62:
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  283              	.LBE67:
  284              		.loc 1 170 0
  285 001a C301     		se_lwz %r0,12(%r1)
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 6
 
 
  286 001c 0090     		se_mtlr %r0
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  340              		.cfi_restore 65
  341 001e 2071     		se_addi %r1,8
  342              	.LCFI9:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 7
 
 
  343              		.cfi_def_cfa_offset 0
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  397 0053 00000000 		.4byte	.LASF3
  398 0057 03       		.uleb128 0x3
  399 0058 02       		.byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 8
 
 
  400 0059 05       		.byte	0x5
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  454 00c5 06       		.byte	0x6
  455 00c6 58       		.byte	0x58
  456 00c7 000000CB 		.4byte	0xcb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 9
 
 
  457 00cb 07       		.uleb128 0x7
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  511 0131 06       		.byte	0x6
  512 0132 6C       		.byte	0x6c
  513 0133 000000BE 		.4byte	0xbe
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 10
 
 
  514 0137 02       		.byte	0x2
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  568 0194 08       		.byte	0x8
  569 0195 00000000 		.4byte	.LASF25
  570 0199 0D       		.uleb128 0xd
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 11
 
 
  571 019a 0000009B 		.4byte	0x9b
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  625 01f9 00       		.uleb128 0
  626 01fa 00       		.byte	0
  627 01fb 11       		.uleb128 0x11
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 12
 
 
  628 01fc 04       		.byte	0x4
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  682 025b 00000000 		.4byte	.LASF26
  683 025f 07       		.byte	0x7
  684 0260 034A     		.2byte	0x34a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 13
 
 
  685 0262 000000A0 		.4byte	0xa0
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  739 02b9 0351     		.2byte	0x351
  740 02bb 000000A0 		.4byte	0xa0
  741 02bf 04       		.byte	0x4
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 14
 
 
  742 02c0 01       		.byte	0x1
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  796 0319 04       		.byte	0x4
  797 031a 01       		.byte	0x1
  798 031b 17       		.byte	0x17
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 15
 
 
  799 031c 02       		.byte	0x2
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  853 0379 00       		.byte	0
  854 037a 02       		.byte	0x2
  855 037b 23       		.byte	0x23
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 16
 
 
  856 037c 00       		.uleb128 0
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  910 03d3 035F     		.2byte	0x35f
  911 03d5 000000A0 		.4byte	0xa0
  912 03d9 12       		.uleb128 0x12
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 17
 
 
  913 03da 4200     		.string	"B"
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  967 043f 07       		.byte	0x7
  968 0440 033D     		.2byte	0x33d
  969 0442 000001FB 		.4byte	0x1fb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 18
 
 
  970 0446 02       		.byte	0x2
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1024 04a9 037E     		.2byte	0x37e
  1025 04ab 000000A0 		.4byte	0xa0
  1026 04af 04       		.byte	0x4
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 19
 
 
  1027 04b0 01       		.byte	0x1
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1081 0503 0000051C 		.4byte	0x51c
  1082 0507 12       		.uleb128 0x12
  1083 0508 5200     		.string	"R"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 20
 
 
  1084 050a 07       		.byte	0x7
@@ -1198,7 +1198,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1138 0569 03       		.byte	0x3
  1139 056a 02       		.byte	0x2
  1140 056b 23       		.byte	0x23
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 21
 
 
  1141 056c 00       		.uleb128 0
@@ -1258,7 +1258,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1195 05c5 23       		.byte	0x23
  1196 05c6 00       		.uleb128 0
  1197 05c7 10       		.uleb128 0x10
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 22
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 22
 
 
  1198 05c8 46323200 		.string	"F22"
@@ -1318,7 +1318,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1252 0621 10       		.uleb128 0x10
  1253 0622 46313700 		.string	"F17"
  1254 0626 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 23
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 23
 
 
  1255 0627 039A     		.2byte	0x39a
@@ -1378,7 +1378,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1309 0680 07       		.byte	0x7
  1310 0681 039F     		.2byte	0x39f
  1311 0683 000000A0 		.4byte	0xa0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 24
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 24
 
 
  1312 0687 04       		.byte	0x4
@@ -1438,7 +1438,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1366 06da 000000A0 		.4byte	0xa0
  1367 06de 04       		.byte	0x4
  1368 06df 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 25
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 25
 
 
  1369 06e0 18       		.byte	0x18
@@ -1498,7 +1498,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1423 0734 01       		.byte	0x1
  1424 0735 1D       		.byte	0x1d
  1425 0736 02       		.byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 26
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 26
 
 
  1426 0737 23       		.byte	0x23
@@ -1558,7 +1558,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1480 0792 02       		.byte	0x2
  1481 0793 23       		.byte	0x23
  1482 0794 00       		.uleb128 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 27
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 27
 
 
  1483 0795 13       		.uleb128 0x13
@@ -1618,7 +1618,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1537 07ee 00       		.uleb128 0
  1538 07ef 13       		.uleb128 0x13
  1539 07f0 00000000 		.4byte	.LASF55
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 28
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 28
 
 
  1540 07f4 07       		.byte	0x7
@@ -1678,7 +1678,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1594 084a 00000000 		.4byte	.LASF60
  1595 084e 07       		.byte	0x7
  1596 084f 03BD     		.2byte	0x3bd
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 29
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 29
 
 
  1597 0851 000000A0 		.4byte	0xa0
@@ -1738,7 +1738,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1651 08a9 03C2     		.2byte	0x3c2
  1652 08ab 000000A0 		.4byte	0xa0
  1653 08af 04       		.byte	0x4
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 30
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 30
 
 
  1654 08b0 01       		.byte	0x1
@@ -1798,7 +1798,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1708 0909 04       		.byte	0x4
  1709 090a 01       		.byte	0x1
  1710 090b 15       		.byte	0x15
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 31
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 31
 
 
  1711 090c 02       		.byte	0x2
@@ -1858,7 +1858,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1765 0965 1A       		.byte	0x1a
  1766 0966 02       		.byte	0x2
  1767 0967 23       		.byte	0x23
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 32
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 32
 
 
  1768 0968 00       		.uleb128 0
@@ -1918,7 +1918,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1822 09c1 23       		.byte	0x23
  1823 09c2 00       		.uleb128 0
  1824 09c3 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 33
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 33
 
 
  1825 09c4 11       		.uleb128 0x11
@@ -1978,7 +1978,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1879 0a21 13       		.uleb128 0x13
  1880 0a22 00000000 		.4byte	.LASF74
  1881 0a26 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 34
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 34
 
 
  1882 0a27 03DB     		.2byte	0x3db
@@ -2038,7 +2038,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1936 0a80 07       		.byte	0x7
  1937 0a81 03E0     		.2byte	0x3e0
  1938 0a83 000000A0 		.4byte	0xa0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 35
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 35
 
 
  1939 0a87 04       		.byte	0x4
@@ -2098,7 +2098,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  1993 0add 000000A0 		.4byte	0xa0
  1994 0ae1 04       		.byte	0x4
  1995 0ae2 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 36
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 36
 
 
  1996 0ae3 0D       		.byte	0xd
@@ -2158,7 +2158,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2050 0b3c 01       		.byte	0x1
  2051 0b3d 12       		.byte	0x12
  2052 0b3e 02       		.byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 37
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 37
 
 
  2053 0b3f 23       		.byte	0x23
@@ -2218,7 +2218,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2107 0b98 02       		.byte	0x2
  2108 0b99 23       		.byte	0x23
  2109 0b9a 00       		.uleb128 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 38
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 38
 
 
  2110 0b9b 13       		.uleb128 0x13
@@ -2278,7 +2278,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2164 0bf4 00       		.uleb128 0
  2165 0bf5 13       		.uleb128 0x13
  2166 0bf6 00000000 		.4byte	.LASF100
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 39
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 39
 
 
  2167 0bfa 07       		.byte	0x7
@@ -2338,7 +2338,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2221 0c58 16       		.uleb128 0x16
  2222 0c59 4D435200 		.string	"MCR"
  2223 0c5d 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 40
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 40
 
 
  2224 0c5e 0387     		.2byte	0x387
@@ -2398,7 +2398,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2278 0cc2 0D       		.uleb128 0xd
  2279 0cc3 0000009B 		.4byte	0x9b
  2280 0cc7 00000CD2 		.4byte	0xcd2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 41
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 41
 
 
  2281 0ccb 0E       		.uleb128 0xe
@@ -2458,7 +2458,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2335 0d3c 00000000 		.4byte	.LASF113
  2336 0d40 09       		.byte	0x9
  2337 0d41 015E     		.2byte	0x15e
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 42
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 42
 
 
  2338 0d43 00000E64 		.4byte	0xe64
@@ -2518,7 +2518,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2392 0dad 0118     		.2byte	0x118
  2393 0daf 00000085 		.4byte	0x85
  2394 0db3 1B       		.uleb128 0x1b
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 43
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 43
 
 
  2395 0db4 00000000 		.4byte	.LASF120
@@ -2578,7 +2578,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2449 0e1f 09       		.byte	0x9
  2450 0e20 0149     		.2byte	0x149
  2451 0e22 00000D78 		.4byte	0xd78
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 44
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 44
 
 
  2452 0e26 02       		.byte	0x2
@@ -2638,7 +2638,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2506 0e8f 01       		.byte	0x1
  2507 0e90 03       		.byte	0x3
  2508 0e91 1E       		.uleb128 0x1e
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 45
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 45
 
 
  2509 0e92 00000000 		.4byte	.LASF129
@@ -2698,7 +2698,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2563 0ef7 57       		.byte	0x57
  2564 0ef8 01       		.byte	0x1
  2565 0ef9 00000000 		.4byte	.LFB46
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 46
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 46
 
 
  2566 0efd 00000000 		.4byte	.LFE46
@@ -2758,7 +2758,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2620 0f80 00       		.byte	0
  2621 0f81 22       		.uleb128 0x22
  2622 0f82 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 47
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 47
 
 
  2623 0f83 00000000 		.4byte	.LASF135
@@ -2818,7 +2818,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2677 1003 22       		.uleb128 0x22
  2678 1004 01       		.byte	0x1
  2679 1005 00000000 		.4byte	.LASF136
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 48
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 48
 
 
  2680 1009 01       		.byte	0x1
@@ -2878,7 +2878,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2734 108f 03       		.byte	0x3
  2735 1090 F3       		.byte	0xf3
  2736 1091 01       		.uleb128 0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 49
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 49
 
 
  2737 1092 54       		.byte	0x54
@@ -2938,7 +2938,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2791 1108 00000E9B 		.4byte	0xe9b
  2792 110c 00000000 		.4byte	.LBB67
  2793 1110 00000000 		.4byte	.LBE67
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 50
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 50
 
 
  2794 1114 01       		.byte	0x1
@@ -2998,7 +2998,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2848 1181 00000000 		.4byte	.LBB70
  2849 1185 00000000 		.4byte	.LBE70
  2850 1189 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 51
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 51
 
 
  2851 118a BE       		.byte	0xbe
@@ -3058,7 +3058,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2905 11f7 01       		.byte	0x1
  2906 11f8 01       		.byte	0x1
  2907 11f9 00001203 		.4byte	0x1203
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 52
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 52
 
 
  2908 11fd 09       		.uleb128 0x9
@@ -3118,7 +3118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  2962 1267 00       		.byte	0
  2963              		.section	.debug_abbrev,"",@progbits
  2964              	.Ldebug_abbrev0:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 53
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 53
 
 
  2965 0000 01       		.uleb128 0x1
@@ -3178,7 +3178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3019 0036 00       		.byte	0
  3020 0037 00       		.byte	0
  3021 0038 05       		.uleb128 0x5
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 54
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 54
 
 
  3022 0039 35       		.uleb128 0x35
@@ -3238,7 +3238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3076 006f 0D       		.uleb128 0xd
  3077 0070 00       		.byte	0
  3078 0071 03       		.uleb128 0x3
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 55
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 55
 
 
  3079 0072 0E       		.uleb128 0xe
@@ -3298,7 +3298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3133 00a8 00       		.byte	0
  3134 00a9 10       		.uleb128 0x10
  3135 00aa 0D       		.uleb128 0xd
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 56
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 56
 
 
  3136 00ab 00       		.byte	0
@@ -3358,7 +3358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3190 00e1 49       		.uleb128 0x49
  3191 00e2 13       		.uleb128 0x13
  3192 00e3 0B       		.uleb128 0xb
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 57
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 57
 
 
  3193 00e4 0B       		.uleb128 0xb
@@ -3418,7 +3418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3247 011a 17       		.uleb128 0x17
  3248 011b 13       		.uleb128 0x13
  3249 011c 01       		.byte	0x1
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 58
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 58
 
 
  3250 011d 03       		.uleb128 0x3
@@ -3478,7 +3478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3304 0153 00       		.byte	0
  3305 0154 00       		.byte	0
  3306 0155 1C       		.uleb128 0x1c
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 59
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 59
 
 
  3307 0156 26       		.uleb128 0x26
@@ -3538,7 +3538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3361 018c 0A       		.uleb128 0xa
  3362 018d 9742     		.uleb128 0x2117
  3363 018f 0C       		.uleb128 0xc
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 60
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 60
 
 
  3364 0190 01       		.uleb128 0x1
@@ -3598,7 +3598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3418 01ca 00       		.byte	0
  3419 01cb 23       		.uleb128 0x23
  3420 01cc 05       		.uleb128 0x5
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 61
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 61
 
 
  3421 01cd 00       		.byte	0
@@ -3658,7 +3658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3475 0205 27       		.uleb128 0x27
  3476 0206 8A8201   		.uleb128 0x410a
  3477 0209 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 62
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 62
 
 
  3478 020a 02       		.uleb128 0x2
@@ -3718,7 +3718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3532 0241 0C       		.uleb128 0xc
  3533 0242 01       		.uleb128 0x1
  3534 0243 13       		.uleb128 0x13
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 63
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 63
 
 
  3535 0244 00       		.byte	0
@@ -3778,7 +3778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3589 004e 53       		.byte	0x53
  3590 004f 9F       		.byte	0x9f
  3591 0050 00000000 		.4byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 64
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 64
 
 
  3592 0054 00000000 		.4byte	0
@@ -3838,7 +3838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3646 00d9 0002     		.2byte	0x2
  3647 00db 71       		.byte	0x71
  3648 00dc 00       		.sleb128 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 65
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 65
 
 
  3649 00dd 00000000 		.4byte	.LCFI4
@@ -3898,7 +3898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3703 0161 71       		.byte	0x71
  3704 0162 00       		.sleb128 0
  3705 0163 00000000 		.4byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 66
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 66
 
 
  3706 0167 00000000 		.4byte	0
@@ -3958,7 +3958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3760 01e6 00000000 		.4byte	.LCFI9
  3761 01ea 00000000 		.4byte	.LFE50
  3762 01ee 0002     		.2byte	0x2
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 67
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 67
 
 
  3763 01f0 71       		.byte	0x71
@@ -4018,7 +4018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3817 0048 00000000 		.4byte	0
  3818 004c 00000000 		.4byte	0
  3819              		.section	.debug_ranges,"",@progbits
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 68
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 68
 
 
  3820              	.Ldebug_ranges0:
@@ -4078,7 +4078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3857      00
  3858              	.LASF58:
  3859 0047 4F553232 		.string	"OU22"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 69
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 69
 
 
  3859      00
@@ -4138,7 +4138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3887      69676E65 
  3887      6420696E 
  3887      7400
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 70
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 70
 
 
  3888              	.LASF113:
@@ -4198,7 +4198,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3921      4D4200
  3922              	.LASF120:
  3923 015c 70776D63 		.string	"pwmcnt_t"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 71
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 71
 
 
  3923      6E745F74 
@@ -4258,7 +4258,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3953      6800
  3954              	.LASF29:
  3955 01e3 464F5243 		.string	"FORCMA"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 72
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 72
 
 
  3955      4D4100
@@ -4318,7 +4318,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  3983      53313400 
  3984              	.LASF87:
  3985 0273 43484449 		.string	"CHDIS15"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 73
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 73
 
 
  3985      53313500 
@@ -4378,7 +4378,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  4013      00
  4014              	.LASF103:
  4015 0335 454D494F 		.string	"EMIOS_tag"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 74
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 74
 
 
  4015      535F7461 
@@ -4438,7 +4438,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  4047      535F7265 
  4047      73657276 
  4047      65643000 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 75
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 75
 
 
  4048              	.LASF107:
@@ -4498,7 +4498,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  4075      6C6C645F 
  4075      656E6162 
  4075      6C655F63 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 76
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 76
 
 
  4075      68616E6E 
@@ -4558,7 +4558,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  4108              	.LASF112:
  4109 0509 50574D44 		.string	"PWMDriver"
  4109      72697665 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 77
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 77
 
 
  4109      7200
@@ -4618,7 +4618,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  4140 0675 70776D4F 		.string	"pwmObjectInit"
  4140      626A6563 
  4140      74496E69 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 78
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 78
 
 
  4140      7400
@@ -4626,18 +4626,18 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 1
  4142 0683 76745F66 		.string	"vt_func"
  4142      756E6300 
  4143              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s 			page 79
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s 			page 79
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 pwm.c
-C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s:10     .text.pwmInit:00000000 pwmInit
-C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s:27     .text.pwmObjectInit:00000000 pwmObjectInit
-C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s:47     .text.pwmStart:00000000 pwmStart
-C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s:124    .text.pwmStop:00000000 pwmStop
-C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s:193    .text.pwmChangePeriod:00000000 pwmChangePeriod
-C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s:247    .text.pwmEnableChannel:00000000 pwmEnableChannel
-C:\Users\thoma\AppData\Local\Temp\ccCO2Ogk.s:300    .text.pwmDisableChannel:00000000 pwmDisableChannel
+C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s:10     .text.pwmInit:00000000 pwmInit
+C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s:27     .text.pwmObjectInit:00000000 pwmObjectInit
+C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s:47     .text.pwmStart:00000000 pwmStart
+C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s:124    .text.pwmStop:00000000 pwmStop
+C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s:193    .text.pwmChangePeriod:00000000 pwmChangePeriod
+C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s:247    .text.pwmEnableChannel:00000000 pwmEnableChannel
+C:\Users\thoma\AppData\Local\Temp\ccFFGzDN.s:300    .text.pwmDisableChannel:00000000 pwmDisableChannel
 
 UNDEFINED SYMBOLS
 pwm_lld_init

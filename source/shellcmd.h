@@ -12,6 +12,7 @@
  * limitations under the License.
  */
 
+
 /*
  * Size of the stack used by the shell thread.
  */
@@ -26,6 +27,7 @@ extern int iCarBlinker;
 
 extern WORKING_AREA(waThreadCarBlinker, 128);
 msg_t ThreadCarBlinker(void *arg);
+
 
 /*
  * Function availables for BT and SERIAL(FTDI) Shells
@@ -46,3 +48,5 @@ void stopdemo(BaseSequentialStream *chp, int argc, char *argv[]);
 void EssuieGlace(BaseSequentialStream *chp, int argc, char *argv[]);
 void Light(BaseSequentialStream *chp, int argc, char *argv[]);
 void StopLight(BaseSequentialStream *chp, int argc, char *argv[]);
+void warning(BaseSequentialStream *chp, int argc, char *argv[]);
+

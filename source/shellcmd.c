@@ -12,6 +12,7 @@
  * limitations under the License.
  */
 
+
 #include "hal.h"
 #include "ch.h"
 #include "shell.h"
@@ -264,6 +265,8 @@ void speed(BaseSequentialStream *chp, int argc, char *argv[]) {
    * Display the Speed Counter.
    */
   chprintf(chp, "Speed %d\r\n", counter);
+
+
 }
 
 /*

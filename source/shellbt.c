@@ -63,5 +63,6 @@ const ShellCommand shell_commands_car[] = { {"startgps", startgps},
 											{"EssuieGlace", EssuieGlace},
 											{"StopLight", StopLight},
 											{"Light", Light},
+
 											{NULL, NULL}
 										  };

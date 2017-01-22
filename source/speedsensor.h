@@ -12,7 +12,9 @@
  * limitations under the License.
  */
 
+
 extern unsigned long counter;
 void initSpeedSensor(void);
 void initEvents(void);
 void resetSpeedSensor(void);
+void affichage(void);

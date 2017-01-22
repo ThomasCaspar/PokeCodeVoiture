@@ -12,12 +12,37 @@
  * limitations under the License.
  */
 
+
 #include "components.h"
 #include "speedsensor.h"
+#include "shellcmd.h"
+#include "carcommand.h"
+
 
 unsigned long counter = 0;
 
 #define SPEEDSENSOR vector41
+
+int r = 0;
+int j = 0;
+int bc = 0;
+int b = 0;
+int b2 = 0;
+int bc2 = 0;
+int r1 = 0;
+int r2 = 0;
+
+void affichage()
+{
+	if (r>0) palSetPad(PORT_C, PC_LEDROUGE);
+	else palClearPad(PORT_C, PC_LEDROUGE);
+	if(j>0){palSetPad(PORT_A, PA_LEDJAUNE1);palSetPad(PORT_A, PA_LEDJAUNE2);}
+	else {palClearPad(PORT_A, PA_LEDJAUNE1);palClearPad(PORT_A, PA_LEDJAUNE2);}
+	if(bc>0)palSetPad(PORT_B, PB_LEDBLANCHE);
+	else palClearPad(PORT_B, PB_LEDBLANCHE);
+	if(b>0)palSetPad(PORT_C, PC_LEDBLEU);
+	else palClearPad(PORT_C, PC_LEDBLEU);
+}
 
 /*
  * SpeedSensor or Events
@@ -31,32 +56,65 @@ OSAL_IRQ_HANDLER(SPEEDSENSOR) {
   sr0 = SIU.ISR.R;
 
   /* Event 4 - EIRQ1*/
-  if (sr0 & (1 << 1)) {
+  if (sr0 & (1 << 1)) {//pluie
     SIU.ISR.B.EIF1 = 1;
+    if(b2 == 0){
+    	b++;
+    	b2++;
+    }
+    else
+    {
+    	b2--;
+    	b--;
+    }
+    affichage();
 
-    palTogglePad(PORT_C, PC_LEDBLEU);
   }
 
   /* Event 4 - EIRQ2*/
-  if (sr0 & (1 << 2)) {
+  if (sr0 & (1 << 2)) {//Arret d'urgence
     SIU.ISR.B.EIF2 = 1;
+    if(r2 == 0){
+    	r2++;
+    	r++;
+    	j++;
+    	stopcmd();
+    }
+    else
+    {
+    	r2--;
+    	r--;
+    	j--;
+    }
+    affichage();
 
-    palTogglePad(PORT_C, PC_LEDROUGE);
+
   }
 
   /* Event 3 - EIRQ3*/
-  if (sr0 & (1 << 3)) {
+  if (sr0 & (1 << 3)) {//Changement de direction
     SIU.ISR.B.EIF3 = 1;
 
-    palTogglePad(PORT_A, PA_LEDJAUNE1);
-    palTogglePad(PORT_A, PA_LEDJAUNE2);
   }
 
   /* Event 1 - EIRQ4*/
-  if (sr0 & (1 << 4)) {
+  if (sr0 & (1 << 4)) {//Mode nuit
     SIU.ISR.B.EIF4 = 1;
+    if(bc2 == 0)
+    {
+    	bc2++;
+    	bc++;
+    	r++;
+    }
+    else
+    {
+    	bc2--;
+    	bc--;
+    	r--;
+    }
+    affichage();
 
-    palTogglePad(PORT_B, PB_LEDBLANCHE);
+
   }
 
   /* Speed Sensor*/
@@ -67,6 +125,7 @@ OSAL_IRQ_HANDLER(SPEEDSENSOR) {
 
   OSAL_IRQ_EPILOGUE();
 }
+
 
 void initSpeedSensor() {
   /* Enable Vector Interruption SIU External IRQ_0 */

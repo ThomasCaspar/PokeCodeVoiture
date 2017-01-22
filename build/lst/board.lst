@@ -1,4 +1,4 @@
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 1
 
 
    1              		.file	"board.c"
@@ -58,7 +58,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
   55 001d 00       		.zero	1
   56 001e 0700     		.short	1792
   57 0020 00000013 		.long	19
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 2
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 2
 
 
   58 0024 01       		.byte	1
@@ -118,7 +118,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  112 008e 0103     		.short	259
  113 0090 00000008 		.long	8
  114 0094 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 3
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 3
 
 
  115 0095 00       		.zero	1
@@ -178,7 +178,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  165              		.file 5 "./components/chibios_rt_portable_kernel_component/lib/include/chvt.h"
  166              		.file 6 "./components/spc560dxx_hal_drivers_component/lib/include/pal_lld.h"
  167              		.file 7 "./components/spc560dxx_hal_drivers_component/lib/include/hal_lld.h"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 4
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 4
 
 
  168              		.section	.debug_info,"",@progbits
@@ -238,7 +238,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  222 0071 00000000 		.4byte	.LASF8
  223 0075 02       		.byte	0x2
  224 0076 3F       		.byte	0x3f
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 5
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 5
 
 
  225 0077 00000037 		.4byte	0x37
@@ -298,7 +298,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  279 00e3 00000000 		.4byte	.LASF20
  280 00e7 05       		.byte	0x5
  281 00e8 58       		.byte	0x58
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 6
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 6
 
 
  282 00e9 000000ED 		.4byte	0xed
@@ -358,7 +358,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  336 014f 00000000 		.4byte	.LASF26
  337 0153 05       		.byte	0x5
  338 0154 6C       		.byte	0x6c
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 7
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 7
 
 
  339 0155 000000E0 		.4byte	0xe0
@@ -418,7 +418,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  393 01b5 01       		.byte	0x1
  394 01b6 08       		.byte	0x8
  395 01b7 00000000 		.4byte	.LASF29
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 8
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 8
 
 
  396 01bb 06       		.uleb128 0x6
@@ -478,7 +478,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  450 021e 000001C6 		.4byte	0x1c6
  451 0222 02       		.byte	0x2
  452 0223 23       		.byte	0x23
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 9
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 9
 
 
  453 0224 00       		.uleb128 0
@@ -538,7 +538,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  507 028d 02       		.byte	0x2
  508 028e 71       		.byte	0x71
  509 028f 00       		.sleb128 0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 10
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 10
 
 
  510 0290 01       		.byte	0x1
@@ -598,7 +598,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  564 0302 01       		.byte	0x1
  565 0303 00000000 		.4byte	.LASF48
  566 0307 07       		.byte	0x7
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 11
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 11
 
 
  567 0308 03B2     		.2byte	0x3b2
@@ -658,7 +658,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  621 0030 3A       		.uleb128 0x3a
  622 0031 0B       		.uleb128 0xb
  623 0032 3B       		.uleb128 0x3b
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 12
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 12
 
 
  624 0033 0B       		.uleb128 0xb
@@ -718,7 +718,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  678 0069 00       		.byte	0
  679 006a 03       		.uleb128 0x3
  680 006b 0E       		.uleb128 0xe
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 13
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 13
 
 
  681 006c 3A       		.uleb128 0x3a
@@ -778,7 +778,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  735 00a2 40       		.uleb128 0x40
  736 00a3 0A       		.uleb128 0xa
  737 00a4 9742     		.uleb128 0x2117
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 14
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 14
 
 
  738 00a6 0C       		.uleb128 0xc
@@ -838,7 +838,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  792 00e0 0B       		.uleb128 0xb
  793 00e1 00       		.byte	0
  794 00e2 00       		.byte	0
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 15
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 15
 
 
  795 00e3 13       		.uleb128 0x13
@@ -898,7 +898,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  849 0119 03       		.uleb128 0x3
  850 011a 0E       		.uleb128 0xe
  851 011b 3A       		.uleb128 0x3a
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 16
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 16
 
 
  852 011c 0B       		.uleb128 0xb
@@ -958,7 +958,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  896 0023 7370635F 		.string	"spc_siu_init"
  896      7369755F 
  896      696E6974 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 17
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 17
 
 
  896      00
@@ -1018,7 +1018,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  919      6E7400
  920              	.LASF31:
  921 01b4 7063725F 		.string	"pcr_index"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 18
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 18
 
 
  921      696E6465 
@@ -1078,7 +1078,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  947 027a 76745F74 		.string	"vt_time"
  947      696D6500 
  948              	.LASF15:
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 19
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 19
 
 
  949 0282 696E7433 		.string	"int32_t"
@@ -1138,7 +1138,7 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  975 0339 7370635F 		.string	"spc_padsels_init"
  975      70616473 
  975      656C735F 
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 20
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 20
 
 
  975      696E6974 
@@ -1162,16 +1162,16 @@ GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 1
  985 0371 5F426F6F 		.string	"_Bool"
  985      6C00
  986              		.ident	"GCC: (GNU) 4.9.2 20141030 (Wed Jun 8 08:37:55 MSK 2016         build.sh rev= ELvle)"
-GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s 			page 21
+GAS LISTING C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s 			page 21
 
 
 DEFINED SYMBOLS
                             *ABS*:00000000 board.c
-C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s:10     .text.__early_init:00000000 __early_init
-C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s:27     .text.boardInit:00000000 boardInit
-C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s:149    .rodata.pal_default_config:00000000 pal_default_config
-C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s:40     .rodata.spc_siu_init:00000000 spc_siu_init
-C:\Users\thoma\AppData\Local\Temp\ccWzwKor.s:158    .rodata.spc_padsels_init:00000000 spc_padsels_init
+C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s:10     .text.__early_init:00000000 __early_init
+C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s:27     .text.boardInit:00000000 boardInit
+C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s:149    .rodata.pal_default_config:00000000 pal_default_config
+C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s:40     .rodata.spc_siu_init:00000000 spc_siu_init
+C:\Users\thoma\AppData\Local\Temp\ccWhsOQa.s:158    .rodata.spc_padsels_init:00000000 spc_padsels_init
 
 UNDEFINED SYMBOLS
 spc_clock_init
